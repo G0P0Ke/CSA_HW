@@ -1,0 +1,9 @@
+Filled container:
+Container contains 7 elements.
+0: Plane specifications: distance fly = 1000, carrying capacity = 54, Speed = 502, Range = 1009. Ideal time of passage = 2.00996
+1: Ship: ship type = tugboat Ship specifications: displacement = 39, Speed = 100, Range = 5000. Ideal time of passage = 50
+2: Train specifications: number of wagons = 34, Speed = 150, Range = 450. Ideal time of passage = 3
+3: Ship: ship type = Invalid type number! Ship specifications: displacement = 2, Speed = 54, Range = 1000. Ideal time of passage = 18.5185
+4: Invalid transport type!
+5: Invalid transport type!
+6: Train specifications: number of wagons = 3, Speed = 2, Range = 0. Ideal time of passage = 0

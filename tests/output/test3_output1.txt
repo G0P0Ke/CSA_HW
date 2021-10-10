@@ -1,0 +1,7 @@
+Filled container:
+Container contains 5 elements.
+0: Plane specifications: distance fly = 9000, carrying capacity = 34, Speed = 240, Range = 4500. Ideal time of passage = 18.75
+1: Plane specifications: distance fly = 10000, carrying capacity = 34, Speed = 240, Range = 4500. Ideal time of passage = 18.75
+2: Plane specifications: distance fly = 15000, carrying capacity = 34, Speed = 240, Range = 4500. Ideal time of passage = 18.75
+3: Ship: ship type = tanker Ship specifications: displacement = 34, Speed = 240, Range = 4500. Ideal time of passage = 18.75
+4: Train specifications: number of wagons = 34, Speed = 240, Range = 4500. Ideal time of passage = 18.75
