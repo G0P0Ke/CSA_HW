@@ -1,0 +1,13 @@
+Container after sorting:
+Container contains 11 elements.
+0: Plane specifications: distance fly = 1000, carrying capacity = 54, Speed = 200, Range = 5000. Ideal time of passage = 25
+1: Plane specifications: distance fly = 1900, carrying capacity = 34, Speed = 240, Range = 4500. Ideal time of passage = 18.75
+2: Train specifications: number of wagons = 15, Speed = 234, Range = 4150. Ideal time of passage = 17.735
+3: Plane specifications: distance fly = 15060, carrying capacity = 40, Speed = 670, Range = 6509. Ideal time of passage = 9.71493
+4: Ship: ship type = tugboat Ship specifications: displacement = 19, Speed = 50, Range = 300. Ideal time of passage = 6
+5: Ship: ship type = tanker Ship specifications: displacement = 59, Speed = 230, Range = 1300. Ideal time of passage = 5.65217
+6: Train specifications: number of wagons = 5, Speed = 150, Range = 600. Ideal time of passage = 4
+7: Plane specifications: distance fly = 1800, carrying capacity = 50, Speed = 430, Range = 1555. Ideal time of passage = 3.61628
+8: Train specifications: number of wagons = 34, Speed = 150, Range = 450. Ideal time of passage = 3
+9: Train specifications: number of wagons = 10, Speed = 134, Range = 200. Ideal time of passage = 1.49254
+10: Ship: ship type = liner Ship specifications: displacement = 20, Speed = 100, Range = 50. Ideal time of passage = 0.5

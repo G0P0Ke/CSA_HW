@@ -1,0 +1,5 @@
+Container after sorting:
+Container contains 3 elements.
+0: Ship: ship type = tugboat Ship specifications: displacement = 39, Speed = 100, Range = 5000. Ideal time of passage = 50
+1: Train specifications: number of wagons = 34, Speed = 150, Range = 450. Ideal time of passage = 3
+2: Plane specifications: distance fly = 1000, carrying capacity = 54, Speed = 502, Range = 1009. Ideal time of passage = 2.00996

@@ -1,0 +1,6 @@
+Container after sorting:
+Container contains 4 elements.
+0: Ship: ship type = liner Ship specifications: displacement = 40, Speed = 100, Range = 4000. Ideal time of passage = 40
+1: Ship: ship type = liner Ship specifications: displacement = 30, Speed = 100, Range = 3000. Ideal time of passage = 30
+2: Ship: ship type = tugboat Ship specifications: displacement = 10, Speed = 100, Range = 500. Ideal time of passage = 5
+3: Ship: ship type = tanker Ship specifications: displacement = 20, Speed = 100, Range = 200. Ideal time of passage = 2
