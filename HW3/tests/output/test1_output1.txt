@@ -1,0 +1,4 @@
+Container stores 3 transports:
+0: Plane: distance_fly = 1000, carrying_capacity = 54, speed = 502, range = 1009, Ideal time of travel = 2.00996015936255
+1: Ship: type = TUGBOAT, displacement = 39 ,speed = 100, range = 5000, Ideal time of travel = 50.0
+2: Train: number of wagons = 34, speed = 150, range = 450, Ideal time of travel = 3.0

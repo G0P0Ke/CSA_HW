@@ -1,0 +1,22 @@
+ TIMEFORMAT="%3R"
+ echo "RUN: test_1"
+ time python3 ../src/main.py -f ../tests/input/test1_input.txt ../tests/output/test1_output1.txt ../tests/output/test1_output2.txt
+ echo "RUN: test_2"
+ time python3 ../src/main.py -f ../tests/input/test2_input.txt ../tests/output/test2_output1.txt ../tests/output/test2_output2.txt
+ echo "RUN: test_3"
+ time python3 ../src/main.py -f ../tests/input/test3_input.txt ../tests/output/test3_output1.txt ../tests/output/test3_output2.txt
+ echo "RUN: test_4"
+ time python3 ../src/main.py -f ../tests/input/test4_input.txt ../tests/output/test4_output1.txt ../tests/output/test4_output2.txt
+ echo "RUN: test_5"
+ time python3 ../src/main.py -f ../tests/input/test5_input.txt ../tests/output/test5_output1.txt ../tests/output/test5_output2.txt
+ echo "RUN Random test n = 10"
+ time python3 ../src/main.py -n 10 ../tests/output/test6_output1.txt ../tests/output/test6_output2.txt
+ echo "RUN Random test n = 100"
+ time python3 ../src/main.py -n 100 ../tests/output/test7_output1.txt ../tests/output/test7_output2.txt
+ echo "RUN Random test n = 1000"
+ time python3 ../src/main.py -n 1000 ../tests/output/test8_output1.txt ../tests/output/test8_output2.txt
+ echo "RUN Random test n = 10000"
+ time python3 ../src/main.py -n 10000 ../tests/output/test9_output1.txt ../tests/output/test9_output2.txt
+ echo "RUN Random test n = 100000"
+ time python3 ../src/main.py -n 100000 ../tests/output/test10_output1.txt ../tests/output/test10_output2.txt
+

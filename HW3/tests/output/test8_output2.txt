@@ -1,0 +1,1001 @@
+Container stores 1000 transports:
+0: Ship: type = TUGBOAT, displacement = 853 ,speed = 122, range = 8685.723773423539, Ideal time of travel = 71.19445715920934
+1: Plane: distance_fly = 481292885, carrying_capacity = 7643, speed = 186, range = 9142.085363353046, Ideal time of travel = 49.150996577166914
+2: Plane: distance_fly = 78987555, carrying_capacity = 5769, speed = 125, range = 5289.255044097376, Ideal time of travel = 42.31404035277901
+3: Ship: type = TANKER, displacement = 374 ,speed = 194, range = 6877.924124746044, Ideal time of travel = 35.453217137866204
+4: Train: number of wagons = 3, speed = 256, range = 8583.611773751545, Ideal time of travel = 33.52973349121697
+5: Plane: distance_fly = 905462794, carrying_capacity = 2278, speed = 213, range = 7017.579198801785, Ideal time of travel = 32.946381215031856
+6: Ship: type = TUGBOAT, displacement = 274 ,speed = 211, range = 6558.2393830615965, Ideal time of travel = 31.08170323725875
+7: Plane: distance_fly = 210448612, carrying_capacity = 3358, speed = 281, range = 8624.579015501287, Ideal time of travel = 30.692452012460098
+8: Ship: type = TANKER, displacement = 560 ,speed = 237, range = 7091.927772866002, Ideal time of travel = 29.923745877071738
+9: Plane: distance_fly = 866505711, carrying_capacity = 12, speed = 216, range = 5979.785622307247, Ideal time of travel = 27.684192695866884
+10: Plane: distance_fly = 74575875, carrying_capacity = 7529, speed = 205, range = 4137.45431597433, Ideal time of travel = 20.182703980362586
+11: Train: number of wagons = 2, speed = 433, range = 8411.746371409621, Ideal time of travel = 19.426665984779724
+12: Ship: type = TUGBOAT, displacement = 186 ,speed = 257, range = 4854.743789131091, Ideal time of travel = 18.89005365420658
+13: Train: number of wagons = 17, speed = 336, range = 6342.272453198043, Ideal time of travel = 18.875810872613222
+14: Train: number of wagons = 19, speed = 519, range = 9623.07771353279, Ideal time of travel = 18.541575555939865
+15: Train: number of wagons = 43, speed = 478, range = 8649.88744315257, Ideal time of travel = 18.095998835047215
+16: Plane: distance_fly = 701411141, carrying_capacity = 3684, speed = 259, range = 4594.451614176003, Ideal time of travel = 17.73919542152897
+17: Train: number of wagons = 23, speed = 577, range = 9635.188307663835, Ideal time of travel = 16.698766564408725
+18: Train: number of wagons = 5, speed = 543, range = 8792.829899038219, Ideal time of travel = 16.19305690430611
+19: Ship: type = TUGBOAT, displacement = 891 ,speed = 528, range = 8305.313459213465, Ideal time of travel = 15.72976033941944
+20: Ship: type = LINER, displacement = 222 ,speed = 252, range = 3863.9744270728092, Ideal time of travel = 15.333231853463529
+21: Train: number of wagons = 47, speed = 616, range = 9342.41903360081, Ideal time of travel = 15.166264664936381
+22: Ship: type = TUGBOAT, displacement = 713 ,speed = 526, range = 7917.3095582370115, Ideal time of travel = 15.051919312237665
+23: Plane: distance_fly = 223154614, carrying_capacity = 9320, speed = 570, range = 8494.627775509178, Ideal time of travel = 14.90285574650733
+24: Ship: type = TANKER, displacement = 395 ,speed = 579, range = 8621.743886809116, Ideal time of travel = 14.890749372727315
+25: Train: number of wagons = 18, speed = 432, range = 6310.8767840749215, Ideal time of travel = 14.608511074247504
+26: Plane: distance_fly = 254436159, carrying_capacity = 3620, speed = 559, range = 8140.5678126637995, Ideal time of travel = 14.562733117466546
+27: Train: number of wagons = 25, speed = 563, range = 7797.267650082532, Ideal time of travel = 13.8494984903775
+28: Train: number of wagons = 48, speed = 362, range = 4994.813107315818, Ideal time of travel = 13.797826263303365
+29: Train: number of wagons = 3, speed = 443, range = 5699.272290042072, Ideal time of travel = 12.86517446962093
+30: Train: number of wagons = 6, speed = 728, range = 9094.275056050406, Ideal time of travel = 12.492136066003306
+31: Train: number of wagons = 35, speed = 803, range = 9781.253791998319, Ideal time of travel = 12.180888906598156
+32: Train: number of wagons = 13, speed = 837, range = 9924.775276721597, Ideal time of travel = 11.857557080909913
+33: Ship: type = TANKER, displacement = 724 ,speed = 673, range = 7966.483228639979, Ideal time of travel = 11.837270770638899
+34: Train: number of wagons = 46, speed = 651, range = 7629.9992281982895, Ideal time of travel = 11.720428921963578
+35: Train: number of wagons = 17, speed = 296, range = 3468.8987012305474, Ideal time of travel = 11.71925236902212
+36: Train: number of wagons = 4, speed = 557, range = 6496.076294706106, Ideal time of travel = 11.662614532686007
+37: Plane: distance_fly = 126485530, carrying_capacity = 8236, speed = 395, range = 4518.42143563119, Ideal time of travel = 11.439041609192888
+38: Ship: type = LINER, displacement = 325 ,speed = 788, range = 8081.213466090168, Ideal time of travel = 10.255347038185493
+39: Train: number of wagons = 6, speed = 247, range = 2347.047528052519, Ideal time of travel = 9.502216712763234
+40: Train: number of wagons = 23, speed = 1046, range = 9924.768501269142, Ideal time of travel = 9.488306406567057
+41: Plane: distance_fly = 383550701, carrying_capacity = 4879, speed = 387, range = 3618.2902306592346, Ideal time of travel = 9.349587159326187
+42: Ship: type = TANKER, displacement = 326 ,speed = 786, range = 7209.538840112711, Ideal time of travel = 9.17244127240803
+43: Train: number of wagons = 24, speed = 571, range = 5181.653246461004, Ideal time of travel = 9.07469920571104
+44: Plane: distance_fly = 522320198, carrying_capacity = 5558, speed = 570, range = 4990.094528416456, Ideal time of travel = 8.754551804239398
+45: Train: number of wagons = 2, speed = 899, range = 7757.709959162938, Ideal time of travel = 8.62926580552051
+46: Plane: distance_fly = 209370113, carrying_capacity = 8899, speed = 637, range = 5305.463411372457, Ideal time of travel = 8.328827961338236
+47: Plane: distance_fly = 52281238, carrying_capacity = 4026, speed = 791, range = 6582.074991166398, Ideal time of travel = 8.32120732132288
+48: Train: number of wagons = 16, speed = 735, range = 6086.599206471663, Ideal time of travel = 8.28108735574376
+49: Plane: distance_fly = 709452806, carrying_capacity = 121, speed = 1054, range = 8380.27767931645, Ideal time of travel = 7.950927589484298
+50: Train: number of wagons = 27, speed = 1184, range = 9407.9763035053, Ideal time of travel = 7.945925932014612
+51: Ship: type = TANKER, displacement = 844 ,speed = 1189, range = 9301.981654721649, Ideal time of travel = 7.823365563264633
+52: Train: number of wagons = 25, speed = 364, range = 2841.295513134281, Ideal time of travel = 7.805756904215058
+53: Ship: type = TANKER, displacement = 601 ,speed = 1024, range = 7956.303952390143, Ideal time of travel = 7.769828078505999
+54: Ship: type = TANKER, displacement = 153 ,speed = 1279, range = 9896.641179771548, Ideal time of travel = 7.737796074880022
+55: Plane: distance_fly = 354695803, carrying_capacity = 8751, speed = 664, range = 5108.780630947977, Ideal time of travel = 7.6939467333553875
+56: Train: number of wagons = 36, speed = 1002, range = 7615.65843590451, Ideal time of travel = 7.6004575208627845
+57: Train: number of wagons = 11, speed = 834, range = 6322.878971707416, Ideal time of travel = 7.581389654325439
+58: Ship: type = TUGBOAT, displacement = 674 ,speed = 1136, range = 8531.54868190982, Ideal time of travel = 7.510166093230476
+59: Plane: distance_fly = 487020013, carrying_capacity = 1762, speed = 1234, range = 9172.571695085182, Ideal time of travel = 7.433202346098202
+60: Train: number of wagons = 7, speed = 816, range = 6010.19998900391, Ideal time of travel = 7.365441162994987
+61: Plane: distance_fly = 811506639, carrying_capacity = 9516, speed = 1182, range = 8640.66104505306, Ideal time of travel = 7.310203929824924
+62: Ship: type = LINER, displacement = 699 ,speed = 865, range = 6270.850135012173, Ideal time of travel = 7.249537728337772
+63: Ship: type = LINER, displacement = 756 ,speed = 585, range = 4213.492122482195, Ideal time of travel = 7.2025506367217
+64: Plane: distance_fly = 674807499, carrying_capacity = 5476, speed = 749, range = 5239.121775195382, Ideal time of travel = 6.994822129766865
+65: Plane: distance_fly = 302454489, carrying_capacity = 2045, speed = 1111, range = 7626.33435008026, Ideal time of travel = 6.864387353807615
+66: Ship: type = LINER, displacement = 813 ,speed = 570, range = 3905.1282082109165, Ideal time of travel = 6.851102119668274
+67: Plane: distance_fly = 479948232, carrying_capacity = 2366, speed = 1221, range = 8181.782070946666, Ideal time of travel = 6.700886216991536
+68: Plane: distance_fly = 174076982, carrying_capacity = 2631, speed = 944, range = 6297.640097121139, Ideal time of travel = 6.671228916441884
+69: Plane: distance_fly = 46216474, carrying_capacity = 9992, speed = 1301, range = 8411.256043352183, Ideal time of travel = 6.4652237074190495
+70: Ship: type = TUGBOAT, displacement = 578 ,speed = 1325, range = 8410.2120152071, Ideal time of travel = 6.347329822797811
+71: Train: number of wagons = 24, speed = 1493, range = 9455.044625163311, Ideal time of travel = 6.332916694684067
+72: Train: number of wagons = 40, speed = 1020, range = 6439.790969344326, Ideal time of travel = 6.313520558180712
+73: Plane: distance_fly = 582085624, carrying_capacity = 3514, speed = 1246, range = 7807.765407340252, Ideal time of travel = 6.26626437186216
+74: Plane: distance_fly = 415278458, carrying_capacity = 5293, speed = 1380, range = 8592.65890480547, Ideal time of travel = 6.22656442377208
+75: Train: number of wagons = 14, speed = 1370, range = 8489.151642979125, Ideal time of travel = 6.1964610532694335
+76: Ship: type = TUGBOAT, displacement = 196 ,speed = 1224, range = 7352.8455007119765, Ideal time of travel = 6.0072267162679545
+77: Ship: type = TANKER, displacement = 330 ,speed = 1233, range = 7261.429619567974, Ideal time of travel = 5.889237323250588
+78: Train: number of wagons = 17, speed = 1004, range = 5893.968295318077, Ideal time of travel = 5.870486349918403
+79: Ship: type = LINER, displacement = 661 ,speed = 991, range = 5798.9277504138345, Ideal time of travel = 5.851592079125968
+80: Plane: distance_fly = 157869419, carrying_capacity = 7617, speed = 1473, range = 8616.303417557523, Ideal time of travel = 5.849493155164645
+81: Train: number of wagons = 25, speed = 465, range = 2681.621897669375, Ideal time of travel = 5.766928812192204
+82: Ship: type = TUGBOAT, displacement = 466 ,speed = 815, range = 4656.285984539861, Ideal time of travel = 5.713234336858725
+83: Train: number of wagons = 37, speed = 1751, range = 9658.982639376622, Ideal time of travel = 5.516266498787334
+84: Train: number of wagons = 22, speed = 1254, range = 6840.934265665852, Ideal time of travel = 5.455290482987123
+85: Plane: distance_fly = 251111749, carrying_capacity = 6965, speed = 1612, range = 8773.674747873589, Ideal time of travel = 5.442726270393045
+86: Ship: type = LINER, displacement = 191 ,speed = 1453, range = 7748.242670917037, Ideal time of travel = 5.332582705379929
+87: Plane: distance_fly = 220989168, carrying_capacity = 5860, speed = 1443, range = 7676.360560281341, Ideal time of travel = 5.319723187998157
+88: Plane: distance_fly = 618393433, carrying_capacity = 9492, speed = 1594, range = 8448.260450926475, Ideal time of travel = 5.300037924044212
+89: Plane: distance_fly = 105215901, carrying_capacity = 6472, speed = 494, range = 2549.6168581392094, Ideal time of travel = 5.161167729026739
+90: Train: number of wagons = 47, speed = 1657, range = 8463.527019706165, Ideal time of travel = 5.107741110263226
+91: Ship: type = LINER, displacement = 201 ,speed = 1663, range = 8389.170063586796, Ideal time of travel = 5.04460015850078
+92: Train: number of wagons = 17, speed = 1849, range = 9249.10660859175, Ideal time of travel = 5.002220988962548
+93: Ship: type = LINER, displacement = 451 ,speed = 1430, range = 7055.031314677955, Ideal time of travel = 4.933588331942627
+94: Ship: type = TANKER, displacement = 937 ,speed = 790, range = 3859.741563170372, Ideal time of travel = 4.885748814139712
+95: Plane: distance_fly = 83430770, carrying_capacity = 4823, speed = 616, range = 2963.500782634955, Ideal time of travel = 4.810877893887914
+96: Ship: type = LINER, displacement = 888 ,speed = 1566, range = 7461.674845870617, Ideal time of travel = 4.764798752152373
+97: Ship: type = TUGBOAT, displacement = 361 ,speed = 1519, range = 7215.120553502206, Ideal time of travel = 4.749914781765771
+98: Train: number of wagons = 25, speed = 1685, range = 7981.5959556278485, Ideal time of travel = 4.736852199185667
+99: Train: number of wagons = 35, speed = 1489, range = 6978.300174014106, Ideal time of travel = 4.68656828342116
+100: Plane: distance_fly = 901196290, carrying_capacity = 5811, speed = 1358, range = 6276.62776496301, Ideal time of travel = 4.621964480826959
+101: Ship: type = TUGBOAT, displacement = 493 ,speed = 2082, range = 9499.482898875307, Ideal time of travel = 4.562671901477093
+102: Train: number of wagons = 24, speed = 1804, range = 8227.223910897997, Ideal time of travel = 4.560545405154101
+103: Train: number of wagons = 37, speed = 1043, range = 4695.709598717543, Ideal time of travel = 4.502118503084892
+104: Train: number of wagons = 1, speed = 2072, range = 9324.503084455868, Ideal time of travel = 4.500242801378315
+105: Plane: distance_fly = 782063568, carrying_capacity = 4185, speed = 1665, range = 7483.522667291191, Ideal time of travel = 4.494608208583298
+106: Ship: type = TUGBOAT, displacement = 879 ,speed = 1518, range = 6709.798771234582, Ideal time of travel = 4.420157293303414
+107: Plane: distance_fly = 216236749, carrying_capacity = 7443, speed = 1373, range = 6065.080195007959, Ideal time of travel = 4.4173927130429425
+108: Plane: distance_fly = 239170859, carrying_capacity = 8445, speed = 1987, range = 8738.258774397049, Ideal time of travel = 4.397714531654278
+109: Train: number of wagons = 49, speed = 1756, range = 7613.444884805589, Ideal time of travel = 4.335674763556714
+110: Plane: distance_fly = 13969387, carrying_capacity = 5527, speed = 437, range = 1887.5121401364938, Ideal time of travel = 4.3192497485960955
+111: Train: number of wagons = 26, speed = 2043, range = 8730.884766325104, Ideal time of travel = 4.273560825416106
+112: Train: number of wagons = 26, speed = 2335, range = 9844.753659114614, Ideal time of travel = 4.216168590627244
+113: Ship: type = TUGBOAT, displacement = 270 ,speed = 1968, range = 8186.741640317847, Ideal time of travel = 4.159929695283458
+114: Plane: distance_fly = 535996083, carrying_capacity = 651, speed = 1698, range = 7041.1477929113325, Ideal time of travel = 4.146730148946603
+115: Plane: distance_fly = 370251523, carrying_capacity = 1444, speed = 2025, range = 8390.608172846072, Ideal time of travel = 4.1435102088128755
+116: Ship: type = TUGBOAT, displacement = 909 ,speed = 2053, range = 8424.053409878297, Ideal time of travel = 4.103289532332342
+117: Ship: type = TUGBOAT, displacement = 777 ,speed = 1962, range = 7925.786602731347, Ideal time of travel = 4.039646586509351
+118: Plane: distance_fly = 463668177, carrying_capacity = 6394, speed = 2094, range = 8372.448478023407, Ideal time of travel = 3.998303953210796
+119: Plane: distance_fly = 307341539, carrying_capacity = 6562, speed = 1177, range = 4685.591541537523, Ideal time of travel = 3.9809613776869353
+120: Ship: type = LINER, displacement = 22 ,speed = 2182, range = 8646.088563101337, Ideal time of travel = 3.962460386389247
+121: Train: number of wagons = 15, speed = 861, range = 3364.9745825315053, Ideal time of travel = 3.9082167044500644
+122: Ship: type = TANKER, displacement = 789 ,speed = 2546, range = 9808.736507082025, Ideal time of travel = 3.852606640644943
+123: Train: number of wagons = 39, speed = 2283, range = 8792.826240351074, Ideal time of travel = 3.851435059286498
+124: Plane: distance_fly = 725458314, carrying_capacity = 8704, speed = 337, range = 1285.2243714782194, Ideal time of travel = 3.8137221705585147
+125: Plane: distance_fly = 646913869, carrying_capacity = 8972, speed = 2597, range = 9879.375228755025, Ideal time of travel = 3.804149106182143
+126: Ship: type = TUGBOAT, displacement = 941 ,speed = 2591, range = 9854.422400366648, Ideal time of travel = 3.8033278272352944
+127: Train: number of wagons = 24, speed = 2458, range = 9347.079497479072, Ideal time of travel = 3.8027174521883937
+128: Train: number of wagons = 28, speed = 2614, range = 9904.518636202549, Ideal time of travel = 3.7890277873766447
+129: Train: number of wagons = 23, speed = 1631, range = 6163.144322662718, Ideal time of travel = 3.778751883913377
+130: Plane: distance_fly = 350142967, carrying_capacity = 2405, speed = 1079, range = 4048.275067445172, Ideal time of travel = 3.7518768002272216
+131: Ship: type = TANKER, displacement = 883 ,speed = 1910, range = 7029.5103955983805, Ideal time of travel = 3.680371934868262
+132: Ship: type = TUGBOAT, displacement = 523 ,speed = 1653, range = 5928.916690920006, Ideal time of travel = 3.5867614585118
+133: Train: number of wagons = 46, speed = 1793, range = 6371.378808933581, Ideal time of travel = 3.5534739592490694
+134: Plane: distance_fly = 298651753, carrying_capacity = 738, speed = 1994, range = 7081.466760776491, Ideal time of travel = 3.5513875430172974
+135: Plane: distance_fly = 85514617, carrying_capacity = 3103, speed = 1914, range = 6737.870667839721, Ideal time of travel = 3.5203086038870017
+136: Plane: distance_fly = 847816284, carrying_capacity = 2247, speed = 2041, range = 7111.108813926079, Ideal time of travel = 3.4841297471465356
+137: Plane: distance_fly = 826217864, carrying_capacity = 1861, speed = 812, range = 2823.662416247343, Ideal time of travel = 3.477416768777516
+138: Plane: distance_fly = 118826718, carrying_capacity = 7972, speed = 2231, range = 7699.618298175005, Ideal time of travel = 3.4511960099394914
+139: Ship: type = LINER, displacement = 864 ,speed = 2627, range = 9047.661480850933, Ideal time of travel = 3.444104103864078
+140: Train: number of wagons = 44, speed = 621, range = 2115.7913940808503, Ideal time of travel = 3.407071488052899
+141: Plane: distance_fly = 205282479, carrying_capacity = 8111, speed = 1202, range = 4092.986974086407, Ideal time of travel = 3.4051472330169776
+142: Train: number of wagons = 33, speed = 2301, range = 7753.874490574777, Ideal time of travel = 3.3697846547478387
+143: Plane: distance_fly = 147241569, carrying_capacity = 6828, speed = 1934, range = 6340.584737886715, Ideal time of travel = 3.2784822843261194
+144: Plane: distance_fly = 922140282, carrying_capacity = 5603, speed = 1235, range = 4042.2576950205967, Ideal time of travel = 3.273083153862831
+145: Train: number of wagons = 13, speed = 1358, range = 4415.54859282665, Ideal time of travel = 3.2515085366912
+146: Ship: type = LINER, displacement = 507 ,speed = 604, range = 1963.470699351248, Ideal time of travel = 3.2507793035616688
+147: Plane: distance_fly = 253726003, carrying_capacity = 3197, speed = 2571, range = 8255.362664282797, Ideal time of travel = 3.210953972883235
+148: Train: number of wagons = 37, speed = 1646, range = 5251.190872332421, Ideal time of travel = 3.1902739200075465
+149: Plane: distance_fly = 223704713, carrying_capacity = 6841, speed = 1161, range = 3668.3880856746136, Ideal time of travel = 3.1596796603571176
+150: Plane: distance_fly = 860109532, carrying_capacity = 9669, speed = 1974, range = 6227.225043321011, Ideal time of travel = 3.1546226156641395
+151: Train: number of wagons = 46, speed = 2829, range = 8848.701049940724, Ideal time of travel = 3.1278547366351095
+152: Train: number of wagons = 12, speed = 1448, range = 4513.800265941996, Ideal time of travel = 3.1172653770317655
+153: Ship: type = TUGBOAT, displacement = 145 ,speed = 2518, range = 7711.15384285765, Ideal time of travel = 3.062412169522498
+154: Ship: type = LINER, displacement = 582 ,speed = 810, range = 2427.2634524360583, Ideal time of travel = 2.996621546217356
+155: Train: number of wagons = 37, speed = 3355, range = 9941.736149339447, Ideal time of travel = 2.963259657031132
+156: Train: number of wagons = 47, speed = 3135, range = 9228.862399835329, Ideal time of travel = 2.9438157575232307
+157: Ship: type = TUGBOAT, displacement = 702 ,speed = 2285, range = 6719.338968473112, Ideal time of travel = 2.940629745502456
+158: Ship: type = TUGBOAT, displacement = 158 ,speed = 1562, range = 4543.145094993742, Ideal time of travel = 2.9085435947463134
+159: Ship: type = TUGBOAT, displacement = 744 ,speed = 3275, range = 9515.159034201057, Ideal time of travel = 2.905392071511773
+160: Plane: distance_fly = 288491492, carrying_capacity = 9618, speed = 802, range = 2323.9757040469485, Ideal time of travel = 2.8977253167667687
+161: Train: number of wagons = 36, speed = 3218, range = 9301.13215519609, Ideal time of travel = 2.890345604473614
+162: Ship: type = LINER, displacement = 297 ,speed = 959, range = 2737.4016818652553, Ideal time of travel = 2.854433453456992
+163: Plane: distance_fly = 138352906, carrying_capacity = 493, speed = 1882, range = 5348.867094359977, Ideal time of travel = 2.842118541105195
+164: Ship: type = TUGBOAT, displacement = 354 ,speed = 2665, range = 7527.315545902878, Ideal time of travel = 2.8245086476183405
+165: Ship: type = TUGBOAT, displacement = 630 ,speed = 1055, range = 2939.236191891293, Ideal time of travel = 2.786005869091273
+166: Train: number of wagons = 28, speed = 3322, range = 9072.237962899624, Ideal time of travel = 2.73095664145082
+167: Ship: type = TUGBOAT, displacement = 42 ,speed = 3323, range = 8983.388473100833, Ideal time of travel = 2.7033970728561036
+168: Ship: type = TUGBOAT, displacement = 745 ,speed = 3037, range = 8208.629018901695, Ideal time of travel = 2.7028742242020725
+169: Train: number of wagons = 42, speed = 2995, range = 8074.364479069974, Ideal time of travel = 2.6959480731452334
+170: Plane: distance_fly = 666533447, carrying_capacity = 8705, speed = 2697, range = 7265.996980780687, Ideal time of travel = 2.69410344114968
+171: Plane: distance_fly = 803036793, carrying_capacity = 3128, speed = 2917, range = 7852.716635972768, Ideal time of travel = 2.692052326353366
+172: Plane: distance_fly = 241957816, carrying_capacity = 9185, speed = 3609, range = 9709.143242807331, Ideal time of travel = 2.6902585876440375
+173: Plane: distance_fly = 123860820, carrying_capacity = 9448, speed = 1004, range = 2698.4731901106848, Ideal time of travel = 2.6877223009070565
+174: Plane: distance_fly = 207879965, carrying_capacity = 387, speed = 1173, range = 3151.970895118462, Ideal time of travel = 2.6871022123772055
+175: Ship: type = TANKER, displacement = 812 ,speed = 2568, range = 6894.507887525917, Ideal time of travel = 2.6847772147686593
+176: Train: number of wagons = 38, speed = 3239, range = 8622.09594398205, Ideal time of travel = 2.661962316758892
+177: Plane: distance_fly = 282647273, carrying_capacity = 6520, speed = 3284, range = 8730.734733825628, Ideal time of travel = 2.658567214928632
+178: Ship: type = TANKER, displacement = 642 ,speed = 2065, range = 5478.644495048347, Ideal time of travel = 2.6530966077715967
+179: Ship: type = TANKER, displacement = 813 ,speed = 3116, range = 8265.82543402513, Ideal time of travel = 2.6527039261954846
+180: Train: number of wagons = 15, speed = 277, range = 728.5620600953226, Ideal time of travel = 2.630187942582392
+181: Ship: type = LINER, displacement = 897 ,speed = 965, range = 2534.231699026529, Ideal time of travel = 2.62614683836946
+182: Plane: distance_fly = 715216002, carrying_capacity = 5303, speed = 3580, range = 9345.413297822222, Ideal time of travel = 2.610450641849783
+183: Plane: distance_fly = 367179202, carrying_capacity = 9443, speed = 3798, range = 9896.792525972842, Ideal time of travel = 2.605790554495219
+184: Plane: distance_fly = 353583322, carrying_capacity = 9106, speed = 3022, range = 7837.167085135141, Ideal time of travel = 2.5933709745649045
+185: Train: number of wagons = 2, speed = 2473, range = 6407.624948523542, Ideal time of travel = 2.591033137292172
+186: Train: number of wagons = 5, speed = 1640, range = 4238.301058862493, Ideal time of travel = 2.5843299139405445
+187: Ship: type = LINER, displacement = 89 ,speed = 3513, range = 9077.022654635584, Ideal time of travel = 2.5838379318632465
+188: Plane: distance_fly = 780112552, carrying_capacity = 4722, speed = 1087, range = 2797.642552207289, Ideal time of travel = 2.57372819890275
+189: Ship: type = TUGBOAT, displacement = 771 ,speed = 3834, range = 9852.841217890928, Ideal time of travel = 2.56985947258501
+190: Plane: distance_fly = 493829871, carrying_capacity = 596, speed = 2965, range = 7605.255874428428, Ideal time of travel = 2.565010412960684
+191: Plane: distance_fly = 761353895, carrying_capacity = 1720, speed = 3879, range = 9938.274670453955, Ideal time of travel = 2.5620713252008134
+192: Ship: type = TANKER, displacement = 125 ,speed = 1929, range = 4868.146956814088, Ideal time of travel = 2.52366353385904
+193: Ship: type = TUGBOAT, displacement = 796 ,speed = 3952, range = 9879.93984081886, Ideal time of travel = 2.4999847775351367
+194: Ship: type = LINER, displacement = 561 ,speed = 1664, range = 4145.431470446866, Ideal time of travel = 2.491244874066626
+195: Ship: type = TANKER, displacement = 864 ,speed = 3790, range = 9424.455987134015, Ideal time of travel = 2.4866638488480253
+196: Plane: distance_fly = 590111309, carrying_capacity = 9921, speed = 1996, range = 4962.16659028071, Ideal time of travel = 2.4860554059522593
+197: Ship: type = TUGBOAT, displacement = 101 ,speed = 2145, range = 5319.4938492766705, Ideal time of travel = 2.4799505124832963
+198: Train: number of wagons = 9, speed = 3606, range = 8933.550112677307, Ideal time of travel = 2.4774126768378557
+199: Plane: distance_fly = 270821309, carrying_capacity = 293, speed = 4068, range = 9944.005061336773, Ideal time of travel = 2.444445688627525
+200: Ship: type = TANKER, displacement = 732 ,speed = 1438, range = 3499.203980196709, Ideal time of travel = 2.4333824618892272
+201: Ship: type = TUGBOAT, displacement = 217 ,speed = 1942, range = 4662.024699213641, Ideal time of travel = 2.4006306381120703
+202: Ship: type = TUGBOAT, displacement = 448 ,speed = 2120, range = 4956.645683700655, Ideal time of travel = 2.338040416839932
+203: Train: number of wagons = 4, speed = 4034, range = 9385.98806642556, Ideal time of travel = 2.3267198974778283
+204: Train: number of wagons = 27, speed = 3938, range = 9159.81587590275, Ideal time of travel = 2.326007078695467
+205: Plane: distance_fly = 780875076, carrying_capacity = 262, speed = 3776, range = 8756.977983659392, Ideal time of travel = 2.3191149321131865
+206: Ship: type = TUGBOAT, displacement = 655 ,speed = 1687, range = 3911.1608472716316, Ideal time of travel = 2.3184118833856737
+207: Ship: type = LINER, displacement = 203 ,speed = 1881, range = 4354.197976379634, Ideal time of travel = 2.3148314600636013
+208: Plane: distance_fly = 366018955, carrying_capacity = 1826, speed = 1639, range = 3775.979566637552, Ideal time of travel = 2.303831340230355
+209: Train: number of wagons = 24, speed = 3177, range = 7258.4128205392935, Ideal time of travel = 2.2846751087627615
+210: Ship: type = LINER, displacement = 955 ,speed = 2919, range = 6641.203120012664, Ideal time of travel = 2.2751637958248248
+211: Plane: distance_fly = 519141378, carrying_capacity = 9399, speed = 4079, range = 9256.121551051707, Ideal time of travel = 2.2692134226652874
+212: Ship: type = TUGBOAT, displacement = 498 ,speed = 2657, range = 6024.387662027214, Ideal time of travel = 2.267364569825824
+213: Ship: type = LINER, displacement = 455 ,speed = 4261, range = 9650.624576824564, Ideal time of travel = 2.2648731698719935
+214: Train: number of wagons = 22, speed = 4061, range = 9197.63592167968, Ideal time of travel = 2.26486971723213
+215: Train: number of wagons = 42, speed = 1537, range = 3469.3651348569933, Ideal time of travel = 2.257231707779436
+216: Ship: type = LINER, displacement = 180 ,speed = 3972, range = 8927.71278714367, Ideal time of travel = 2.247661829593069
+217: Ship: type = TUGBOAT, displacement = 968 ,speed = 1133, range = 2543.546473766811, Ideal time of travel = 2.2449659962637343
+218: Ship: type = TANKER, displacement = 552 ,speed = 4416, range = 9898.276098504068, Ideal time of travel = 2.2414574498424065
+219: Ship: type = TANKER, displacement = 242 ,speed = 3011, range = 6748.029626534157, Ideal time of travel = 2.241125747769564
+220: Plane: distance_fly = 204274357, carrying_capacity = 4476, speed = 3929, range = 8737.862313713511, Ideal time of travel = 2.2239405227064166
+221: Ship: type = TUGBOAT, displacement = 743 ,speed = 3634, range = 7992.255128997667, Ideal time of travel = 2.1992997052827925
+222: Ship: type = TUGBOAT, displacement = 406 ,speed = 3380, range = 7392.114202048152, Ideal time of travel = 2.1870160361089206
+223: Ship: type = TANKER, displacement = 450 ,speed = 4571, range = 9879.9430400934, Ideal time of travel = 2.161440175036841
+224: Plane: distance_fly = 269339114, carrying_capacity = 5086, speed = 2457, range = 5299.650115154829, Ideal time of travel = 2.156959753827769
+225: Plane: distance_fly = 24505055, carrying_capacity = 5645, speed = 3703, range = 7943.7425650149735, Ideal time of travel = 2.145218083990001
+226: Plane: distance_fly = 22668975, carrying_capacity = 4019, speed = 4417, range = 9387.97422644009, Ideal time of travel = 2.125418661181818
+227: Ship: type = TANKER, displacement = 307 ,speed = 3076, range = 6532.215577917154, Ideal time of travel = 2.123607144966565
+228: Train: number of wagons = 3, speed = 3200, range = 6763.624463768191, Ideal time of travel = 2.1136326449275598
+229: Ship: type = TUGBOAT, displacement = 53 ,speed = 4268, range = 9005.948758721697, Ideal time of travel = 2.1101098310032094
+230: Ship: type = TANKER, displacement = 54 ,speed = 2932, range = 6186.584792840791, Ideal time of travel = 2.1100220985132303
+231: Train: number of wagons = 46, speed = 4680, range = 9864.78477804787, Ideal time of travel = 2.107859995309374
+232: Train: number of wagons = 33, speed = 4010, range = 8441.030886178169, Ideal time of travel = 2.10499523346089
+233: Ship: type = LINER, displacement = 307 ,speed = 4400, range = 9218.099057426904, Ideal time of travel = 2.095022513051569
+234: Train: number of wagons = 30, speed = 4504, range = 9398.807814111862, Ideal time of travel = 2.0867690528667544
+235: Ship: type = TUGBOAT, displacement = 757 ,speed = 3204, range = 6673.111422813626, Ideal time of travel = 2.082743889767049
+236: Train: number of wagons = 40, speed = 4316, range = 8957.564364714217, Ideal time of travel = 2.075431965874471
+237: Train: number of wagons = 24, speed = 4451, range = 9222.555924980488, Ideal time of travel = 2.072018855309029
+238: Plane: distance_fly = 287431718, carrying_capacity = 9447, speed = 2572, range = 5276.453063354178, Ideal time of travel = 2.05149808061982
+239: Ship: type = TUGBOAT, displacement = 188 ,speed = 2857, range = 5840.659915097038, Ideal time of travel = 2.0443331869433106
+240: Train: number of wagons = 22, speed = 4343, range = 8780.740194901375, Ideal time of travel = 2.021814458876669
+241: Ship: type = TANKER, displacement = 67 ,speed = 3613, range = 7255.638143620357, Ideal time of travel = 2.008203195023625
+242: Ship: type = LINER, displacement = 31 ,speed = 3177, range = 6365.296744840837, Ideal time of travel = 2.003555790003411
+243: Train: number of wagons = 28, speed = 3559, range = 7120.042626397337, Ideal time of travel = 2.00057393267697
+244: Train: number of wagons = 37, speed = 2249, range = 4491.397116967193, Ideal time of travel = 1.9970640804656261
+245: Ship: type = LINER, displacement = 741 ,speed = 2724, range = 5386.41378816388, Ideal time of travel = 1.977391258503627
+246: Ship: type = TUGBOAT, displacement = 597 ,speed = 3147, range = 6214.152410360482, Ideal time of travel = 1.9746273944583672
+247: Train: number of wagons = 35, speed = 4360, range = 8593.436836418992, Ideal time of travel = 1.970971751472246
+248: Plane: distance_fly = 766213889, carrying_capacity = 2609, speed = 1828, range = 3586.983608839316, Ideal time of travel = 1.9622448626035645
+249: Ship: type = LINER, displacement = 632 ,speed = 1887, range = 3698.483972131418, Ideal time of travel = 1.959980907329845
+250: Train: number of wagons = 38, speed = 2651, range = 5194.297332326933, Ideal time of travel = 1.9593728149101974
+251: Plane: distance_fly = 783975491, carrying_capacity = 1732, speed = 3546, range = 6947.28762631174, Ideal time of travel = 1.9591899679390128
+252: Ship: type = LINER, displacement = 873 ,speed = 1867, range = 3642.166574267972, Ideal time of travel = 1.9508123054461552
+253: Plane: distance_fly = 122430350, carrying_capacity = 8890, speed = 3595, range = 6994.976503316437, Ideal time of travel = 1.9457514612841271
+254: Ship: type = TUGBOAT, displacement = 282 ,speed = 3474, range = 6757.270943621416, Ideal time of travel = 1.9450981415145125
+255: Ship: type = LINER, displacement = 174 ,speed = 2924, range = 5639.989881774851, Ideal time of travel = 1.9288611086781295
+256: Train: number of wagons = 35, speed = 2491, range = 4798.395379777494, Ideal time of travel = 1.926292806012643
+257: Ship: type = LINER, displacement = 153 ,speed = 5006, range = 9637.272993886749, Ideal time of travel = 1.9251444254667895
+258: Ship: type = TANKER, displacement = 120 ,speed = 4506, range = 8637.480758784492, Ideal time of travel = 1.9168843228549692
+259: Train: number of wagons = 40, speed = 4889, range = 9324.478092405645, Ideal time of travel = 1.907236263531529
+260: Ship: type = TUGBOAT, displacement = 286 ,speed = 5105, range = 9734.998826353158, Ideal time of travel = 1.9069537367978762
+261: Plane: distance_fly = 124476540, carrying_capacity = 7556, speed = 2129, range = 4034.84390298507, Ideal time of travel = 1.8951826693213105
+262: Train: number of wagons = 14, speed = 4294, range = 8098.889764072564, Ideal time of travel = 1.8860944955921202
+263: Train: number of wagons = 23, speed = 4777, range = 8982.361891521361, Ideal time of travel = 1.88033533421004
+264: Plane: distance_fly = 161406852, carrying_capacity = 664, speed = 472, range = 885.3521064381387, Ideal time of travel = 1.8757459882163954
+265: Train: number of wagons = 42, speed = 5135, range = 9617.747395409786, Ideal time of travel = 1.8729790448704549
+266: Ship: type = TANKER, displacement = 713 ,speed = 3875, range = 7237.010428054464, Ideal time of travel = 1.8676155943366357
+267: Ship: type = TANKER, displacement = 568 ,speed = 4645, range = 8624.592515502567, Ideal time of travel = 1.8567475813783783
+268: Ship: type = TUGBOAT, displacement = 964 ,speed = 899, range = 1660.712913654837, Ideal time of travel = 1.8472891141878052
+269: Ship: type = LINER, displacement = 48 ,speed = 3029, range = 5585.733454254988, Ideal time of travel = 1.8440849964526207
+270: Train: number of wagons = 38, speed = 1749, range = 3207.60697072095, Ideal time of travel = 1.8339662496975129
+271: Ship: type = LINER, displacement = 951 ,speed = 5350, range = 9793.661954554884, Ideal time of travel = 1.8305910195429689
+272: Ship: type = TANKER, displacement = 198 ,speed = 4670, range = 8540.81910997164, Ideal time of travel = 1.8288691884307582
+273: Train: number of wagons = 48, speed = 2726, range = 4976.3356374701825, Ideal time of travel = 1.8255083042810647
+274: Plane: distance_fly = 962851893, carrying_capacity = 5963, speed = 4286, range = 7795.262869154245, Ideal time of travel = 1.8187734179081299
+275: Train: number of wagons = 37, speed = 5127, range = 9307.810975417528, Ideal time of travel = 1.8154497709025799
+276: Train: number of wagons = 38, speed = 4579, range = 8303.383805665508, Ideal time of travel = 1.8133618269634217
+277: Ship: type = LINER, displacement = 150 ,speed = 3507, range = 6357.3503618743625, Ideal time of travel = 1.812760297084221
+278: Plane: distance_fly = 753723729, carrying_capacity = 8394, speed = 3697, range = 6665.938998578306, Ideal time of travel = 1.8030670810328122
+279: Plane: distance_fly = 588837107, carrying_capacity = 3323, speed = 4066, range = 7284.623351177142, Ideal time of travel = 1.7915945280809498
+280: Ship: type = TANKER, displacement = 715 ,speed = 4047, range = 7236.234159853366, Ideal time of travel = 1.7880489646289512
+281: Ship: type = LINER, displacement = 978 ,speed = 3988, range = 7105.009486134497, Ideal time of travel = 1.7815971630226923
+282: Ship: type = LINER, displacement = 382 ,speed = 4818, range = 8561.388028697513, Ideal time of travel = 1.7769589100659013
+283: Train: number of wagons = 45, speed = 3209, range = 5695.523457594852, Ideal time of travel = 1.774859288748785
+284: Ship: type = LINER, displacement = 856 ,speed = 3678, range = 6511.680547981566, Ideal time of travel = 1.77044060575899
+285: Plane: distance_fly = 892313995, carrying_capacity = 7560, speed = 2234, range = 3953.7423700488102, Ideal time of travel = 1.769804104766701
+286: Ship: type = LINER, displacement = 77 ,speed = 2841, range = 5026.036936013983, Ideal time of travel = 1.7691083900084417
+287: Plane: distance_fly = 328750894, carrying_capacity = 7620, speed = 3661, range = 6405.220804073179, Ideal time of travel = 1.7495823010306417
+288: Ship: type = TUGBOAT, displacement = 103 ,speed = 1698, range = 2969.388635252662, Ideal time of travel = 1.7487565578637585
+289: Plane: distance_fly = 498672343, carrying_capacity = 8686, speed = 1450, range = 2530.3749197366396, Ideal time of travel = 1.74508615154251
+290: Plane: distance_fly = 81715097, carrying_capacity = 7068, speed = 5503, range = 9598.70660851756, Ideal time of travel = 1.7442679644771142
+291: Train: number of wagons = 41, speed = 5774, range = 9959.55794011829, Ideal time of travel = 1.7248974610527
+292: Ship: type = TUGBOAT, displacement = 570 ,speed = 3052, range = 5260.211867486139, Ideal time of travel = 1.723529445441068
+293: Plane: distance_fly = 573885172, carrying_capacity = 4627, speed = 4216, range = 7264.303172414425, Ideal time of travel = 1.7230320617681274
+294: Plane: distance_fly = 183246300, carrying_capacity = 4019, speed = 2642, range = 4517.057503409813, Ideal time of travel = 1.7097113941747968
+295: Plane: distance_fly = 32408575, carrying_capacity = 222, speed = 4847, range = 8234.8117862316, Ideal time of travel = 1.6989502344195584
+296: Plane: distance_fly = 640479602, carrying_capacity = 9684, speed = 4722, range = 8004.502145633139, Ideal time of travel = 1.6951508144076957
+297: Plane: distance_fly = 848075468, carrying_capacity = 6210, speed = 2531, range = 4283.878515413684, Ideal time of travel = 1.6925636173108194
+298: Train: number of wagons = 15, speed = 5189, range = 8778.652773254656, Ideal time of travel = 1.6917812243697545
+299: Train: number of wagons = 24, speed = 5161, range = 8721.862899103282, Ideal time of travel = 1.6899559967260767
+300: Ship: type = TUGBOAT, displacement = 742 ,speed = 5198, range = 8784.283406393697, Ideal time of travel = 1.6899352455547705
+301: Train: number of wagons = 48, speed = 5165, range = 8718.188321896663, Ideal time of travel = 1.6879357835230713
+302: Train: number of wagons = 21, speed = 5410, range = 9117.114361291566, Ideal time of travel = 1.6852337081869808
+303: Train: number of wagons = 18, speed = 4217, range = 7090.53919422376, Ideal time of travel = 1.6814178786397345
+304: Plane: distance_fly = 125368180, carrying_capacity = 2549, speed = 3215, range = 5387.850770890017, Ideal time of travel = 1.6758478292037378
+305: Train: number of wagons = 13, speed = 3374, range = 5653.79045414938, Ideal time of travel = 1.6756936734289805
+306: Plane: distance_fly = 440965891, carrying_capacity = 4457, speed = 596, range = 994.4847657816172, Ideal time of travel = 1.6685986003047268
+307: Ship: type = TANKER, displacement = 252 ,speed = 192, range = 319.5188898376426, Ideal time of travel = 1.6641608845710552
+308: Ship: type = TUGBOAT, displacement = 608 ,speed = 5076, range = 8384.378614988142, Ideal time of travel = 1.651768836680091
+309: Train: number of wagons = 39, speed = 3528, range = 5823.1153973904975, Ideal time of travel = 1.6505429130925446
+310: Ship: type = LINER, displacement = 782 ,speed = 4628, range = 7630.916020337756, Ideal time of travel = 1.6488582584999474
+311: Ship: type = LINER, displacement = 482 ,speed = 2771, range = 4533.28640896841, Ideal time of travel = 1.6359748859503465
+312: Train: number of wagons = 17, speed = 5827, range = 9504.075452352052, Ideal time of travel = 1.6310409219756397
+313: Ship: type = TUGBOAT, displacement = 449 ,speed = 3950, range = 6420.746196654551, Ideal time of travel = 1.6255053662416583
+314: Ship: type = TUGBOAT, displacement = 174 ,speed = 5823, range = 9452.869031593968, Ideal time of travel = 1.6233675135830272
+315: Plane: distance_fly = 755836597, carrying_capacity = 5112, speed = 5421, range = 8746.193032690106, Ideal time of travel = 1.6133910777882505
+316: Train: number of wagons = 35, speed = 2257, range = 3641.3130153221987, Ideal time of travel = 1.6133420537537433
+317: Plane: distance_fly = 903389523, carrying_capacity = 1823, speed = 4827, range = 7688.924992578386, Ideal time of travel = 1.5928993148080353
+318: Ship: type = TUGBOAT, displacement = 276 ,speed = 3930, range = 6222.797524934624, Ideal time of travel = 1.5834090394235683
+319: Plane: distance_fly = 106443667, carrying_capacity = 4800, speed = 2458, range = 3871.227746049891, Ideal time of travel = 1.5749502628355943
+320: Ship: type = LINER, displacement = 860 ,speed = 5336, range = 8399.173023363679, Ideal time of travel = 1.5740579129242278
+321: Train: number of wagons = 25, speed = 4090, range = 6435.347980614555, Ideal time of travel = 1.5734347140866882
+322: Ship: type = LINER, displacement = 34 ,speed = 5459, range = 8582.865731634995, Ideal time of travel = 1.5722413870003653
+323: Plane: distance_fly = 521629700, carrying_capacity = 4775, speed = 3799, range = 5971.66914806857, Ideal time of travel = 1.5719055404234195
+324: Train: number of wagons = 25, speed = 4953, range = 7779.693915865717, Ideal time of travel = 1.5707033950869609
+325: Train: number of wagons = 50, speed = 1112, range = 1736.7900345210712, Ideal time of travel = 1.5618615418354957
+326: Plane: distance_fly = 935085490, carrying_capacity = 7418, speed = 5776, range = 8965.809407407856, Ideal time of travel = 1.552252321227122
+327: Plane: distance_fly = 183569195, carrying_capacity = 3539, speed = 4008, range = 6218.600269226081, Ideal time of travel = 1.5515469733598006
+328: Ship: type = TANKER, displacement = 144 ,speed = 5636, range = 8703.760956566697, Ideal time of travel = 1.5443152868287255
+329: Plane: distance_fly = 242375646, carrying_capacity = 8851, speed = 5165, range = 7914.70569837157, Ideal time of travel = 1.5323728360835567
+330: Train: number of wagons = 4, speed = 5411, range = 8258.54400117554, Ideal time of travel = 1.5262509704630456
+331: Ship: type = TANKER, displacement = 407 ,speed = 5902, range = 9000.942522474124, Ideal time of travel = 1.5250665066882623
+332: Train: number of wagons = 34, speed = 4498, range = 6832.37228769273, Ideal time of travel = 1.5189800550673034
+333: Train: number of wagons = 5, speed = 2851, range = 4327.612521386265, Ideal time of travel = 1.5179279275293809
+334: Ship: type = TUGBOAT, displacement = 412 ,speed = 4197, range = 6353.349423510459, Ideal time of travel = 1.5137835176341337
+335: Plane: distance_fly = 333535763, carrying_capacity = 7829, speed = 4239, range = 6392.429201330042, Ideal time of travel = 1.5080040578745086
+336: Plane: distance_fly = 79234723, carrying_capacity = 5500, speed = 5656, range = 8524.725751014084, Ideal time of travel = 1.5072004510279498
+337: Train: number of wagons = 46, speed = 2509, range = 3780.4353321538724, Ideal time of travel = 1.5067498334610891
+338: Plane: distance_fly = 346566857, carrying_capacity = 2446, speed = 6597, range = 9919.992185409577, Ideal time of travel = 1.5037126247399693
+339: Train: number of wagons = 39, speed = 5423, range = 8133.567936184547, Ideal time of travel = 1.4998281276386773
+340: Ship: type = TANKER, displacement = 197 ,speed = 6170, range = 9171.70136662711, Ideal time of travel = 1.4864994111227083
+341: Ship: type = LINER, displacement = 680 ,speed = 5942, range = 8801.907986385384, Ideal time of travel = 1.4813039357767392
+342: Ship: type = LINER, displacement = 991 ,speed = 5213, range = 7712.23176646948, Ideal time of travel = 1.479422936211295
+343: Plane: distance_fly = 984996220, carrying_capacity = 4014, speed = 3371, range = 4986.470132263523, Ideal time of travel = 1.479225788271588
+344: Ship: type = TUGBOAT, displacement = 556 ,speed = 720, range = 1063.849934788338, Ideal time of travel = 1.4775693538726917
+345: Ship: type = TUGBOAT, displacement = 485 ,speed = 3314, range = 4892.575647931234, Ideal time of travel = 1.4763354399309698
+346: Train: number of wagons = 31, speed = 2133, range = 3108.511841069312, Ideal time of travel = 1.457342635288004
+347: Plane: distance_fly = 608690192, carrying_capacity = 1971, speed = 4802, range = 6977.378417436884, Ideal time of travel = 1.4530150806823998
+348: Train: number of wagons = 50, speed = 4832, range = 6974.917436287482, Ideal time of travel = 1.4434845687681046
+349: Plane: distance_fly = 572992957, carrying_capacity = 2352, speed = 4810, range = 6926.25418583026, Ideal time of travel = 1.4399696852037962
+350: Train: number of wagons = 31, speed = 3233, range = 4648.314456874633, Ideal time of travel = 1.4377712517397565
+351: Plane: distance_fly = 597302424, carrying_capacity = 1088, speed = 2138, range = 3034.7831236096163, Ideal time of travel = 1.419449543316004
+352: Train: number of wagons = 40, speed = 2919, range = 4141.454685665336, Ideal time of travel = 1.4187922869699678
+353: Plane: distance_fly = 169711622, carrying_capacity = 5634, speed = 4889, range = 6934.9213394251165, Ideal time of travel = 1.4184743995551476
+354: Plane: distance_fly = 715608152, carrying_capacity = 6662, speed = 6701, range = 9481.874198879792, Ideal time of travel = 1.4149939111893437
+355: Ship: type = LINER, displacement = 718 ,speed = 2784, range = 3939.2487901478403, Ideal time of travel = 1.4149600539324139
+356: Train: number of wagons = 35, speed = 5630, range = 7941.337125895039, Ideal time of travel = 1.4105394539778044
+357: Plane: distance_fly = 683499474, carrying_capacity = 7894, speed = 2552, range = 3597.6317281815727, Ideal time of travel = 1.409730301011588
+358: Ship: type = TUGBOAT, displacement = 775 ,speed = 5684, range = 8008.416565246387, Ideal time of travel = 1.4089402824149169
+359: Train: number of wagons = 22, speed = 4771, range = 6715.324062712931, Ideal time of travel = 1.407529671497156
+360: Ship: type = LINER, displacement = 849 ,speed = 2441, range = 3433.1028721380612, Ideal time of travel = 1.4064329668734377
+361: Ship: type = LINER, displacement = 969 ,speed = 5678, range = 7967.614182225935, Ideal time of travel = 1.4032430754184457
+362: Plane: distance_fly = 163255104, carrying_capacity = 6394, speed = 5896, range = 8267.01617159115, Ideal time of travel = 1.4021397848695982
+363: Plane: distance_fly = 456072928, carrying_capacity = 4057, speed = 4702, range = 6587.157464723966, Ideal time of travel = 1.40092672580263
+364: Plane: distance_fly = 140101007, carrying_capacity = 7456, speed = 7138, range = 9966.521600661312, Ideal time of travel = 1.3962624825807386
+365: Plane: distance_fly = 340118159, carrying_capacity = 8244, speed = 5791, range = 8003.001521114942, Ideal time of travel = 1.381972288225685
+366: Train: number of wagons = 25, speed = 6971, range = 9600.786396150317, Ideal time of travel = 1.377246649856594
+367: Ship: type = LINER, displacement = 1000 ,speed = 5630, range = 7751.341305098198, Ideal time of travel = 1.376792416536092
+368: Plane: distance_fly = 90687046, carrying_capacity = 2996, speed = 5387, range = 7396.754586010083, Ideal time of travel = 1.3730749185093898
+369: Train: number of wagons = 6, speed = 7106, range = 9755.54300067388, Ideal time of travel = 1.3728599775786492
+370: Ship: type = LINER, displacement = 366 ,speed = 460, range = 628.564618246165, Ideal time of travel = 1.3664448222742718
+371: Plane: distance_fly = 264216489, carrying_capacity = 7887, speed = 6930, range = 9463.598432730336, Ideal time of travel = 1.365598619441607
+372: Plane: distance_fly = 248028421, carrying_capacity = 2588, speed = 4061, range = 5526.5417560743335, Ideal time of travel = 1.360881988691045
+373: Train: number of wagons = 21, speed = 7200, range = 9788.42638426955, Ideal time of travel = 1.359503664481882
+374: Ship: type = TANKER, displacement = 648 ,speed = 6583, range = 8895.140311726294, Ideal time of travel = 1.3512289703366693
+375: Plane: distance_fly = 893672825, carrying_capacity = 8020, speed = 1497, range = 2021.1611481942641, Ideal time of travel = 1.3501410475579587
+376: Ship: type = TANKER, displacement = 534 ,speed = 5128, range = 6898.655598356194, Ideal time of travel = 1.3452916533455916
+377: Train: number of wagons = 25, speed = 7061, range = 9497.341047763422, Ideal time of travel = 1.3450419271722733
+378: Train: number of wagons = 19, speed = 5997, range = 8053.285258451783, Ideal time of travel = 1.342885652568248
+379: Plane: distance_fly = 447224997, carrying_capacity = 3868, speed = 5176, range = 6918.2494735818145, Ideal time of travel = 1.3366015211711388
+380: Ship: type = LINER, displacement = 918 ,speed = 4810, range = 6426.546914963066, Ideal time of travel = 1.3360804397012611
+381: Plane: distance_fly = 234049407, carrying_capacity = 7471, speed = 4271, range = 5684.282118494579, Ideal time of travel = 1.330901924255345
+382: Train: number of wagons = 21, speed = 5313, range = 7065.910636344876, Ideal time of travel = 1.3299285970910741
+383: Train: number of wagons = 42, speed = 2018, range = 2678.2711844672012, Ideal time of travel = 1.3271908743643217
+384: Train: number of wagons = 3, speed = 5473, range = 7248.952546937385, Ideal time of travel = 1.324493430830876
+385: Plane: distance_fly = 248861833, carrying_capacity = 4495, speed = 4470, range = 5919.129669656455, Ideal time of travel = 1.3241900826971935
+386: Plane: distance_fly = 887050240, carrying_capacity = 8808, speed = 2772, range = 3668.332184154174, Ideal time of travel = 1.323352158785777
+387: Plane: distance_fly = 905225623, carrying_capacity = 9096, speed = 6641, range = 8783.655342224552, Ideal time of travel = 1.3226404671321417
+388: Train: number of wagons = 36, speed = 5589, range = 7384.075259130618, Ideal time of travel = 1.32118004278594
+389: Train: number of wagons = 14, speed = 3701, range = 4883.755559940383, Ideal time of travel = 1.319577292607507
+390: Plane: distance_fly = 865362943, carrying_capacity = 8580, speed = 3815, range = 5021.269417109288, Ideal time of travel = 1.3161911971452918
+391: Train: number of wagons = 34, speed = 6334, range = 8279.399863116816, Ideal time of travel = 1.3071360693269365
+392: Plane: distance_fly = 98159098, carrying_capacity = 4573, speed = 1889, range = 2467.260112730356, Ideal time of travel = 1.3061196996984414
+393: Plane: distance_fly = 914782778, carrying_capacity = 9335, speed = 4691, range = 6118.657423747279, Ideal time of travel = 1.304339676774095
+394: Plane: distance_fly = 268180354, carrying_capacity = 9238, speed = 7299, range = 9479.72587080064, Ideal time of travel = 1.2987704988081434
+395: Ship: type = TUGBOAT, displacement = 853 ,speed = 5389, range = 6997.479578501774, Ideal time of travel = 1.298474592410795
+396: Ship: type = TANKER, displacement = 522 ,speed = 2842, range = 3684.986017404289, Ideal time of travel = 1.2966171771302917
+397: Plane: distance_fly = 520591095, carrying_capacity = 4262, speed = 1123, range = 1454.6124520021451, Ideal time of travel = 1.2952915868229253
+398: Plane: distance_fly = 267047918, carrying_capacity = 8599, speed = 4147, range = 5360.382575893182, Ideal time of travel = 1.2925928564970295
+399: Plane: distance_fly = 583967348, carrying_capacity = 2643, speed = 3956, range = 5111.459388047788, Ideal time of travel = 1.292077701730988
+400: Plane: distance_fly = 979935512, carrying_capacity = 7390, speed = 6977, range = 9003.113079342693, Ideal time of travel = 1.2903988934130275
+401: Train: number of wagons = 15, speed = 6112, range = 7861.497571141187, Ideal time of travel = 1.2862397858542518
+402: Train: number of wagons = 25, speed = 4134, range = 5292.954749503594, Ideal time of travel = 1.2803470608378311
+403: Train: number of wagons = 41, speed = 5913, range = 7547.871808920744, Ideal time of travel = 1.276487706565321
+404: Ship: type = LINER, displacement = 721 ,speed = 5191, range = 6619.530731712687, Ideal time of travel = 1.2751937452731048
+405: Ship: type = TUGBOAT, displacement = 99 ,speed = 6075, range = 7744.418578790207, Ideal time of travel = 1.274801412146536
+406: Ship: type = TUGBOAT, displacement = 175 ,speed = 3394, range = 4310.717251953323, Ideal time of travel = 1.2700993671046916
+407: Ship: type = LINER, displacement = 205 ,speed = 6783, range = 8601.171277079638, Ideal time of travel = 1.2680482496063155
+408: Ship: type = TUGBOAT, displacement = 4 ,speed = 7821, range = 9917.26286924081, Ideal time of travel = 1.2680300305895424
+409: Train: number of wagons = 4, speed = 6226, range = 7882.648779915992, Ideal time of travel = 1.26608557338837
+410: Ship: type = TUGBOAT, displacement = 978 ,speed = 2792, range = 3523.8195986071714, Ideal time of travel = 1.2621130367504196
+411: Train: number of wagons = 5, speed = 2680, range = 3364.2798366718266, Ideal time of travel = 1.255328297265607
+412: Plane: distance_fly = 707590930, carrying_capacity = 3481, speed = 6925, range = 8676.264072890406, Ideal time of travel = 1.2528901188289394
+413: Ship: type = TANKER, displacement = 576 ,speed = 2260, range = 2814.5034793606756, Ideal time of travel = 1.2453555218410068
+414: Plane: distance_fly = 870454987, carrying_capacity = 4636, speed = 6081, range = 7568.482960004427, Ideal time of travel = 1.244611570466112
+415: Train: number of wagons = 30, speed = 2280, range = 2822.259241839976, Ideal time of travel = 1.2378330008070069
+416: Train: number of wagons = 9, speed = 2104, range = 2601.895997122407, Ideal time of travel = 1.2366425841836537
+417: Train: number of wagons = 38, speed = 3966, range = 4902.76337634817, Ideal time of travel = 1.236198531605691
+418: Ship: type = LINER, displacement = 446 ,speed = 6661, range = 8204.472521674017, Ideal time of travel = 1.2317178384137542
+419: Train: number of wagons = 24, speed = 5148, range = 6332.568606337221, Ideal time of travel = 1.230102681883687
+420: Ship: type = TUGBOAT, displacement = 273 ,speed = 2844, range = 3497.5683523265584, Ideal time of travel = 1.2298060310571584
+421: Ship: type = TANKER, displacement = 942 ,speed = 4830, range = 5910.170583679734, Ideal time of travel = 1.2236378020040857
+422: Train: number of wagons = 3, speed = 6981, range = 8513.018659147076, Ideal time of travel = 1.2194554733056977
+423: Train: number of wagons = 26, speed = 5627, range = 6845.63835796313, Ideal time of travel = 1.2165698165919905
+424: Train: number of wagons = 47, speed = 3783, range = 4602.118500475531, Ideal time of travel = 1.216526169832284
+425: Plane: distance_fly = 203223086, carrying_capacity = 1236, speed = 6251, range = 7597.074559963765, Ideal time of travel = 1.2153374755981068
+426: Train: number of wagons = 26, speed = 4764, range = 5787.701498495186, Ideal time of travel = 1.2148827662668316
+427: Plane: distance_fly = 616294104, carrying_capacity = 4143, speed = 4312, range = 5210.251130306676, Ideal time of travel = 1.208314269551641
+428: Train: number of wagons = 2, speed = 7799, range = 9418.358206746643, Ideal time of travel = 1.207636646588876
+429: Ship: type = LINER, displacement = 594 ,speed = 5200, range = 6275.4353398217045, Ideal time of travel = 1.206814488427251
+430: Ship: type = LINER, displacement = 597 ,speed = 7306, range = 8808.234337879065, Ideal time of travel = 1.2056165258525957
+431: Train: number of wagons = 16, speed = 6749, range = 8118.8793299146555, Ideal time of travel = 1.2029751563068092
+432: Ship: type = TANKER, displacement = 117 ,speed = 5665, range = 6790.326411238167, Ideal time of travel = 1.1986454388769932
+433: Train: number of wagons = 19, speed = 8361, range = 9971.66941756202, Ideal time of travel = 1.1926407627750293
+434: Train: number of wagons = 33, speed = 5317, range = 6328.757023024388, Ideal time of travel = 1.1902871963559127
+435: Ship: type = TANKER, displacement = 839 ,speed = 5649, range = 6721.294157768379, Ideal time of travel = 1.189820173086985
+436: Ship: type = TANKER, displacement = 453 ,speed = 3655, range = 4346.43713020718, Ideal time of travel = 1.1891756854192013
+437: Train: number of wagons = 15, speed = 922, range = 1094.96904393836, Ideal time of travel = 1.1876019999331455
+438: Train: number of wagons = 18, speed = 6538, range = 7753.532975071202, Ideal time of travel = 1.185918166881493
+439: Ship: type = TANKER, displacement = 867 ,speed = 5322, range = 6276.004001650765, Ideal time of travel = 1.17925667073483
+440: Ship: type = LINER, displacement = 547 ,speed = 7962, range = 9387.065521493787, Ideal time of travel = 1.1789833611521963
+441: Plane: distance_fly = 86452402, carrying_capacity = 3189, speed = 7494, range = 8830.59848934214, Ideal time of travel = 1.1783558165655377
+442: Ship: type = TANKER, displacement = 354 ,speed = 2834, range = 3339.238337956126, Ideal time of travel = 1.178277465757278
+443: Train: number of wagons = 41, speed = 3867, range = 4551.481090627753, Ideal time of travel = 1.1770057126009188
+444: Train: number of wagons = 37, speed = 1890, range = 2216.188374287409, Ideal time of travel = 1.1725864414219094
+445: Plane: distance_fly = 456696321, carrying_capacity = 7496, speed = 5465, range = 6354.422971695613, Ideal time of travel = 1.1627489426707436
+446: Ship: type = TANKER, displacement = 446 ,speed = 7355, range = 8542.437294940086, Ideal time of travel = 1.1614462671570478
+447: Ship: type = LINER, displacement = 965 ,speed = 4692, range = 5415.289895254549, Ideal time of travel = 1.1541538566186167
+448: Plane: distance_fly = 299414035, carrying_capacity = 2842, speed = 7734, range = 8922.39124367714, Ideal time of travel = 1.1536580351276364
+449: Ship: type = TANKER, displacement = 373 ,speed = 8479, range = 9767.039767747287, Ideal time of travel = 1.1519093958895255
+450: Plane: distance_fly = 780972564, carrying_capacity = 7208, speed = 2786, range = 3195.9112119568395, Ideal time of travel = 1.1471325240333237
+451: Train: number of wagons = 43, speed = 1800, range = 2064.153740450688, Ideal time of travel = 1.14675207802816
+452: Ship: type = LINER, displacement = 350 ,speed = 5260, range = 6022.799713491212, Ideal time of travel = 1.145018956937493
+453: Ship: type = TANKER, displacement = 170 ,speed = 3626, range = 4150.7793540069515, Ideal time of travel = 1.1447267937139967
+454: Plane: distance_fly = 630364873, carrying_capacity = 2349, speed = 8531, range = 9764.727665275363, Ideal time of travel = 1.1446170044866208
+455: Plane: distance_fly = 8429276, carrying_capacity = 2906, speed = 3433, range = 3911.730605931624, Ideal time of travel = 1.1394496376148044
+456: Ship: type = LINER, displacement = 823 ,speed = 6635, range = 7531.954794472681, Ideal time of travel = 1.135185349581414
+457: Train: number of wagons = 41, speed = 3370, range = 3811.379104406952, Ideal time of travel = 1.1309730280139323
+458: Train: number of wagons = 14, speed = 3081, range = 3473.1701639822477, Ideal time of travel = 1.127286648484988
+459: Plane: distance_fly = 347414629, carrying_capacity = 903, speed = 7584, range = 8542.982241596863, Ideal time of travel = 1.126448080379333
+460: Ship: type = TUGBOAT, displacement = 616 ,speed = 6428, range = 7209.74987314872, Ideal time of travel = 1.1216163461650157
+461: Ship: type = TUGBOAT, displacement = 306 ,speed = 4552, range = 5082.823221652889, Ideal time of travel = 1.116613185776118
+462: Ship: type = TUGBOAT, displacement = 791 ,speed = 5784, range = 6447.845366366219, Ideal time of travel = 1.1147727120273547
+463: Train: number of wagons = 28, speed = 6668, range = 7402.587659903846, Ideal time of travel = 1.1101661157624243
+464: Ship: type = TANKER, displacement = 324 ,speed = 5913, range = 6563.711567824052, Ideal time of travel = 1.1100476184380266
+465: Ship: type = LINER, displacement = 914 ,speed = 6739, range = 7465.908566676449, Ideal time of travel = 1.107865939557271
+466: Ship: type = TANKER, displacement = 785 ,speed = 3010, range = 3320.7592297912183, Ideal time of travel = 1.1032422690336274
+467: Train: number of wagons = 28, speed = 7427, range = 8172.844133777453, Ideal time of travel = 1.100423338330073
+468: Train: number of wagons = 2, speed = 3162, range = 3478.2853449998315, Ideal time of travel = 1.1000269908285363
+469: Ship: type = LINER, displacement = 269 ,speed = 7005, range = 7703.032758405656, Ideal time of travel = 1.0996477884947402
+470: Train: number of wagons = 42, speed = 3123, range = 3423.7234633592448, Ideal time of travel = 1.0962931358819228
+471: Ship: type = LINER, displacement = 491 ,speed = 4061, range = 4410.914138275326, Ideal time of travel = 1.086164525554131
+472: Train: number of wagons = 14, speed = 9116, range = 9868.508568691163, Ideal time of travel = 1.0825481097730543
+473: Plane: distance_fly = 697094418, carrying_capacity = 5493, speed = 5062, range = 5473.72314181401, Ideal time of travel = 1.081336061203874
+474: Train: number of wagons = 44, speed = 6839, range = 7386.843460619772, Ideal time of travel = 1.080105784562037
+475: Plane: distance_fly = 439421376, carrying_capacity = 5369, speed = 6153, range = 6637.548714456681, Ideal time of travel = 1.0787499942234164
+476: Train: number of wagons = 32, speed = 8464, range = 9070.0675947292, Ideal time of travel = 1.0716053396419187
+477: Ship: type = LINER, displacement = 34 ,speed = 7425, range = 7946.347777478423, Ideal time of travel = 1.070215188885983
+478: Ship: type = TUGBOAT, displacement = 648 ,speed = 2160, range = 2307.3992626724194, Ideal time of travel = 1.0682403993853793
+479: Ship: type = TUGBOAT, displacement = 89 ,speed = 7410, range = 7873.340221989202, Ideal time of travel = 1.0625290448028613
+480: Train: number of wagons = 6, speed = 8324, range = 8840.511783050139, Ideal time of travel = 1.0620509109863212
+481: Train: number of wagons = 31, speed = 4028, range = 4263.979632705685, Ideal time of travel = 1.0585848144750956
+482: Plane: distance_fly = 396417080, carrying_capacity = 2741, speed = 9132, range = 9609.847139259695, Ideal time of travel = 1.0523266687757002
+483: Plane: distance_fly = 703824644, carrying_capacity = 635, speed = 7613, range = 7995.86663136312, Ideal time of travel = 1.050291163977817
+484: Ship: type = TUGBOAT, displacement = 748 ,speed = 3567, range = 3742.3846899505006, Ideal time of travel = 1.049168682352257
+485: Train: number of wagons = 18, speed = 4431, range = 4637.671682807322, Ideal time of travel = 1.046642221351235
+486: Train: number of wagons = 27, speed = 6131, range = 6412.8106846029505, Ideal time of travel = 1.0459648808682027
+487: Train: number of wagons = 1, speed = 8684, range = 9071.008386193604, Ideal time of travel = 1.0445656824267162
+488: Train: number of wagons = 20, speed = 4768, range = 4949.915123969025, Ideal time of travel = 1.0381533397586042
+489: Plane: distance_fly = 532247074, carrying_capacity = 450, speed = 4053, range = 4204.016174885977, Ideal time of travel = 1.0372603441613564
+490: Plane: distance_fly = 30970537, carrying_capacity = 7481, speed = 9441, range = 9779.860950283972, Ideal time of travel = 1.0358924849363385
+491: Plane: distance_fly = 394518103, carrying_capacity = 5303, speed = 7605, range = 7812.098024104311, Ideal time of travel = 1.0272318243398173
+492: Train: number of wagons = 28, speed = 6824, range = 6995.281230666066, Ideal time of travel = 1.0250998286439135
+493: Ship: type = TUGBOAT, displacement = 441 ,speed = 9261, range = 9449.284393994461, Ideal time of travel = 1.0203308923436412
+494: Ship: type = TANKER, displacement = 477 ,speed = 9288, range = 9470.700624463449, Ideal time of travel = 1.019670609869019
+495: Ship: type = LINER, displacement = 637 ,speed = 9297, range = 9479.684602276591, Ideal time of travel = 1.0196498442805841
+496: Ship: type = TANKER, displacement = 541 ,speed = 2862, range = 2908.667837227486, Ideal time of travel = 1.0163060227908756
+497: Plane: distance_fly = 757847248, carrying_capacity = 1705, speed = 8167, range = 8296.777845477263, Ideal time of travel = 1.0158905161598217
+498: Ship: type = TUGBOAT, displacement = 749 ,speed = 4217, range = 4278.2670083883895, Ideal time of travel = 1.0145285768054042
+499: Train: number of wagons = 12, speed = 7046, range = 7144.234828234372, Ideal time of travel = 1.013941928503317
+500: Ship: type = TUGBOAT, displacement = 418 ,speed = 5257, range = 5324.074337350574, Ideal time of travel = 1.0127590521876686
+501: Train: number of wagons = 17, speed = 6416, range = 6493.387073438849, Ideal time of travel = 1.0120615762841099
+502: Train: number of wagons = 35, speed = 7276, range = 7352.434772548616, Ideal time of travel = 1.0105050539511566
+503: Ship: type = TUGBOAT, displacement = 238 ,speed = 7922, range = 7990.841549508844, Ideal time of travel = 1.0086899204126285
+504: Plane: distance_fly = 106246276, carrying_capacity = 8763, speed = 7664, range = 7721.060614535154, Ideal time of travel = 1.0074452785145034
+505: Ship: type = TUGBOAT, displacement = 813 ,speed = 5486, range = 5525.203841035012, Ideal time of travel = 1.007146161326105
+506: Plane: distance_fly = 971845487, carrying_capacity = 8802, speed = 7498, range = 7542.6505354750225, Ideal time of travel = 1.0059549927280638
+507: Train: number of wagons = 43, speed = 5069, range = 5094.613086105989, Ideal time of travel = 1.005052887375417
+508: Ship: type = TANKER, displacement = 998 ,speed = 9740, range = 9788.22130563278, Ideal time of travel = 1.0049508527343716
+509: Plane: distance_fly = 890412181, carrying_capacity = 7345, speed = 5451, range = 5451.087374180949, Ideal time of travel = 1.0000160290187028
+510: Plane: distance_fly = 262814817, carrying_capacity = 1875, speed = 2548, range = 2538.066114628398, Ideal time of travel = 0.9961013008745674
+511: Plane: distance_fly = 175860077, carrying_capacity = 7946, speed = 9713, range = 9670.039314203155, Ideal time of travel = 0.995576991063848
+512: Ship: type = LINER, displacement = 836 ,speed = 5028, range = 5004.341673421179, Ideal time of travel = 0.9952946844513084
+513: Train: number of wagons = 48, speed = 5980, range = 5938.464269671115, Ideal time of travel = 0.9930542256975109
+514: Ship: type = TANKER, displacement = 832 ,speed = 9350, range = 9282.875388545302, Ideal time of travel = 0.9928208971706206
+515: Ship: type = LINER, displacement = 456 ,speed = 9727, range = 9653.00841522797, Ideal time of travel = 0.9923931752059186
+516: Plane: distance_fly = 535690582, carrying_capacity = 121, speed = 6813, range = 6760.510306670052, Ideal time of travel = 0.9922956563437623
+517: Ship: type = TUGBOAT, displacement = 974 ,speed = 7346, range = 7289.1531327544835, Ideal time of travel = 0.992261520930368
+518: Train: number of wagons = 23, speed = 7644, range = 7583.726094827529, Ideal time of travel = 0.9921148737346323
+519: Train: number of wagons = 37, speed = 6687, range = 6616.603228082882, Ideal time of travel = 0.9894725928043789
+520: Train: number of wagons = 32, speed = 9396, range = 9287.97818339905, Ideal time of travel = 0.9885034252233982
+521: Plane: distance_fly = 21742279, carrying_capacity = 8659, speed = 9600, range = 9485.63938746496, Ideal time of travel = 0.9880874361942666
+522: Ship: type = TANKER, displacement = 552 ,speed = 9040, range = 8924.139376955101, Ideal time of travel = 0.9871835593976882
+523: Plane: distance_fly = 244601770, carrying_capacity = 6253, speed = 5821, range = 5745.594392027491, Ideal time of travel = 0.987045935754594
+524: Ship: type = TUGBOAT, displacement = 407 ,speed = 9219, range = 9081.685083880595, Ideal time of travel = 0.9851052265842928
+525: Plane: distance_fly = 283451677, carrying_capacity = 685, speed = 9798, range = 9608.330330146795, Ideal time of travel = 0.9806420014438452
+526: Train: number of wagons = 20, speed = 7419, range = 7263.501312891597, Ideal time of travel = 0.9790404788909014
+527: Train: number of wagons = 27, speed = 9077, range = 8870.47558094249, Ideal time of travel = 0.9772475025826253
+528: Ship: type = LINER, displacement = 919 ,speed = 4243, range = 4141.443668355848, Ideal time of travel = 0.9760649701522149
+529: Plane: distance_fly = 344792324, carrying_capacity = 2251, speed = 7699, range = 7513.44941388144, Ideal time of travel = 0.9758993913341265
+530: Train: number of wagons = 1, speed = 9319, range = 9059.303793746432, Ideal time of travel = 0.972132610124094
+531: Plane: distance_fly = 660690681, carrying_capacity = 5404, speed = 2436, range = 2358.300399921616, Ideal time of travel = 0.9681036124472973
+532: Ship: type = TUGBOAT, displacement = 21 ,speed = 909, range = 877.2511456727202, Ideal time of travel = 0.9650727675167439
+533: Ship: type = TUGBOAT, displacement = 643 ,speed = 4913, range = 4736.191745471616, Ideal time of travel = 0.964012160690335
+534: Plane: distance_fly = 395655682, carrying_capacity = 2715, speed = 5441, range = 5207.42468353747, Ideal time of travel = 0.9570712522583109
+535: Ship: type = TUGBOAT, displacement = 517 ,speed = 4995, range = 4779.109550498587, Ideal time of travel = 0.9567786887885059
+536: Train: number of wagons = 21, speed = 7815, range = 7460.848509850391, Ideal time of travel = 0.9546831106654371
+537: Train: number of wagons = 20, speed = 6585, range = 6284.953136210095, Ideal time of travel = 0.9544347966909787
+538: Ship: type = TUGBOAT, displacement = 998 ,speed = 2262, range = 2156.2635503012766, Ideal time of travel = 0.9532553272773107
+539: Ship: type = LINER, displacement = 497 ,speed = 9812, range = 9303.551679540291, Ideal time of travel = 0.9481809701936701
+540: Train: number of wagons = 26, speed = 5322, range = 5035.644463083728, Ideal time of travel = 0.9461939990762359
+541: Train: number of wagons = 17, speed = 9424, range = 8916.615233559083, Ideal time of travel = 0.9461603600975258
+542: Plane: distance_fly = 187339243, carrying_capacity = 5763, speed = 4842, range = 4575.804939751657, Ideal time of travel = 0.9450237380734525
+543: Ship: type = TANKER, displacement = 145 ,speed = 5999, range = 5666.764429891899, Ideal time of travel = 0.9446181746777629
+544: Plane: distance_fly = 331602734, carrying_capacity = 323, speed = 8304, range = 7825.999500437711, Ideal time of travel = 0.9424373194168727
+545: Train: number of wagons = 34, speed = 8716, range = 8199.687180542289, Ideal time of travel = 0.9407626411819974
+546: Plane: distance_fly = 589011675, carrying_capacity = 9737, speed = 8008, range = 7527.205889610476, Ideal time of travel = 0.9399607754258836
+547: Plane: distance_fly = 138878550, carrying_capacity = 8177, speed = 6936, range = 6494.348164900299, Ideal time of travel = 0.936324706588855
+548: Plane: distance_fly = 921957828, carrying_capacity = 5075, speed = 5203, range = 4866.808103813506, Ideal time of travel = 0.9353849901621192
+549: Ship: type = TUGBOAT, displacement = 978 ,speed = 4279, range = 4000.4857539846744, Ideal time of travel = 0.9349113704100664
+550: Plane: distance_fly = 624819173, carrying_capacity = 848, speed = 4421, range = 4128.441554437834, Ideal time of travel = 0.9338252780904398
+551: Ship: type = TANKER, displacement = 81 ,speed = 2791, range = 2604.5767537649403, Ideal time of travel = 0.9332055728287139
+552: Train: number of wagons = 26, speed = 7218, range = 6729.792824875121, Ideal time of travel = 0.9323625415454587
+553: Plane: distance_fly = 200765506, carrying_capacity = 442, speed = 6367, range = 5889.903698242352, Ideal time of travel = 0.9250673312772659
+554: Train: number of wagons = 17, speed = 7128, range = 6588.398042986182, Ideal time of travel = 0.9242982664122029
+555: Train: number of wagons = 28, speed = 9215, range = 8464.754030335891, Ideal time of travel = 0.9185842680776876
+556: Ship: type = LINER, displacement = 119 ,speed = 5763, range = 5292.039421133879, Ideal time of travel = 0.9182785738563038
+557: Ship: type = TUGBOAT, displacement = 615 ,speed = 7616, range = 6936.443993446773, Ideal time of travel = 0.9107725831731582
+558: Train: number of wagons = 35, speed = 8357, range = 7608.087970369442, Ideal time of travel = 0.9103850628657941
+559: Train: number of wagons = 44, speed = 4604, range = 4180.575684945784, Ideal time of travel = 0.908031208719762
+560: Plane: distance_fly = 162131792, carrying_capacity = 5464, speed = 5701, range = 5168.619591794576, Ideal time of travel = 0.906616311488261
+561: Train: number of wagons = 2, speed = 6347, range = 5746.818380752837, Ideal time of travel = 0.9054385348594355
+562: Ship: type = TUGBOAT, displacement = 940 ,speed = 6209, range = 5582.425800747207, Ideal time of travel = 0.8990861331530371
+563: Plane: distance_fly = 461713413, carrying_capacity = 7955, speed = 9248, range = 8312.703807321544, Ideal time of travel = 0.8988650310685061
+564: Plane: distance_fly = 422447930, carrying_capacity = 4729, speed = 4236, range = 3783.7850223786004, Ideal time of travel = 0.8932448117041077
+565: Ship: type = TANKER, displacement = 356 ,speed = 7530, range = 6712.576589688619, Ideal time of travel = 0.8914444342215961
+566: Ship: type = TANKER, displacement = 988 ,speed = 9216, range = 8176.688958688353, Ideal time of travel = 0.8872275345798993
+567: Plane: distance_fly = 479504732, carrying_capacity = 4296, speed = 8393, range = 7438.936971536583, Ideal time of travel = 0.886326339990061
+568: Train: number of wagons = 29, speed = 5199, range = 4602.9685723004795, Ideal time of travel = 0.8853565247740872
+569: Plane: distance_fly = 115396756, carrying_capacity = 7858, speed = 2354, range = 2079.3859281624577, Ideal time of travel = 0.8833415157869404
+570: Train: number of wagons = 18, speed = 2806, range = 2477.4915754074405, Ideal time of travel = 0.8829264345714328
+571: Plane: distance_fly = 101352994, carrying_capacity = 5417, speed = 8101, range = 7142.184408122575, Ideal time of travel = 0.8816423167661492
+572: Plane: distance_fly = 78119000, carrying_capacity = 2925, speed = 8362, range = 7350.760273177339, Ideal time of travel = 0.8790672414706217
+573: Train: number of wagons = 11, speed = 3162, range = 2778.0449319378768, Ideal time of travel = 0.8785720847368365
+574: Train: number of wagons = 13, speed = 9329, range = 8165.375916732816, Ideal time of travel = 0.8752680798298657
+575: Train: number of wagons = 23, speed = 7923, range = 6922.8638264018855, Ideal time of travel = 0.8737679952545608
+576: Train: number of wagons = 31, speed = 426, range = 372.02174142770235, Ideal time of travel = 0.8732904728349821
+577: Ship: type = TANKER, displacement = 406 ,speed = 9259, range = 8080.603871227023, Ideal time of travel = 0.8727296545228451
+578: Train: number of wagons = 47, speed = 9265, range = 8049.333963741552, Ideal time of travel = 0.868789418644528
+579: Plane: distance_fly = 531794039, carrying_capacity = 5788, speed = 1311, range = 1138.0183856103395, Ideal time of travel = 0.8680536884899615
+580: Ship: type = LINER, displacement = 15 ,speed = 7274, range = 6305.374532976267, Ideal time of travel = 0.8668373017564294
+581: Plane: distance_fly = 248468492, carrying_capacity = 2353, speed = 7811, range = 6764.39577053678, Ideal time of travel = 0.8660089323437179
+582: Train: number of wagons = 20, speed = 8439, range = 7295.759805390389, Ideal time of travel = 0.8645289495663455
+583: Ship: type = LINER, displacement = 487 ,speed = 2174, range = 1879.3271477193837, Ideal time of travel = 0.8644559097145279
+584: Ship: type = TANKER, displacement = 798 ,speed = 8030, range = 6910.06619313976, Ideal time of travel = 0.8605312818355866
+585: Plane: distance_fly = 913514576, carrying_capacity = 7304, speed = 9995, range = 8579.05904870926, Ideal time of travel = 0.8583350724071295
+586: Train: number of wagons = 27, speed = 2883, range = 2472.9500217523014, Ideal time of travel = 0.857769691901596
+587: Plane: distance_fly = 395271130, carrying_capacity = 8280, speed = 8887, range = 7598.893246763934, Ideal time of travel = 0.8550571899137993
+588: Train: number of wagons = 15, speed = 6521, range = 5534.642786215486, Ideal time of travel = 0.848741417913738
+589: Train: number of wagons = 34, speed = 6828, range = 5789.6049409203, Ideal time of travel = 0.8479210516872143
+590: Plane: distance_fly = 73989749, carrying_capacity = 8600, speed = 5594, range = 4735.53829097363, Ideal time of travel = 0.8465388435776957
+591: Plane: distance_fly = 230875528, carrying_capacity = 4152, speed = 2993, range = 2533.3966904163703, Ideal time of travel = 0.8464405915190011
+592: Train: number of wagons = 14, speed = 7580, range = 6411.196902990587, Ideal time of travel = 0.8458043407639296
+593: Plane: distance_fly = 995979256, carrying_capacity = 9826, speed = 4208, range = 3550.9406720267525, Ideal time of travel = 0.8438547224398176
+594: Plane: distance_fly = 92288132, carrying_capacity = 7607, speed = 9579, range = 8057.935142288981, Ideal time of travel = 0.8412083873357324
+595: Ship: type = TUGBOAT, displacement = 774 ,speed = 9175, range = 7706.932480178107, Ideal time of travel = 0.8399926408913467
+596: Plane: distance_fly = 309751943, carrying_capacity = 5338, speed = 4237, range = 3544.805835755602, Ideal time of travel = 0.8366310681509563
+597: Train: number of wagons = 21, speed = 9388, range = 7843.573385115766, Ideal time of travel = 0.8354892826071331
+598: Plane: distance_fly = 301908749, carrying_capacity = 3571, speed = 7442, range = 6213.900867674497, Ideal time of travel = 0.8349772732698867
+599: Ship: type = LINER, displacement = 392 ,speed = 7758, range = 6463.136456145094, Ideal time of travel = 0.8330931240197337
+600: Ship: type = TUGBOAT, displacement = 47 ,speed = 8039, range = 6692.528114777639, Ideal time of travel = 0.8325075400892696
+601: Train: number of wagons = 28, speed = 3577, range = 2953.950325110918, Ideal time of travel = 0.8258178152392838
+602: Train: number of wagons = 48, speed = 5465, range = 4419.348732638576, Ideal time of travel = 0.808663994993335
+603: Ship: type = TANKER, displacement = 891 ,speed = 2401, range = 1934.938946020969, Ideal time of travel = 0.8058887738529651
+604: Ship: type = LINER, displacement = 716 ,speed = 7366, range = 5935.8332766812555, Ideal time of travel = 0.8058421499703035
+605: Ship: type = TANKER, displacement = 628 ,speed = 8995, range = 7232.18104460686, Ideal time of travel = 0.8040223507067105
+606: Plane: distance_fly = 658364017, carrying_capacity = 4207, speed = 7895, range = 6343.9756764973645, Ideal time of travel = 0.8035434675740804
+607: Train: number of wagons = 45, speed = 7765, range = 6234.8972341801145, Ideal time of travel = 0.8029487745241616
+608: Plane: distance_fly = 822220027, carrying_capacity = 5624, speed = 5441, range = 4354.2516563807885, Ideal time of travel = 0.8002667995553737
+609: Plane: distance_fly = 509844159, carrying_capacity = 4800, speed = 9433, range = 7543.286111437736, Ideal time of travel = 0.7996698941416024
+610: Plane: distance_fly = 774554383, carrying_capacity = 3200, speed = 7061, range = 5643.790600722655, Ideal time of travel = 0.7992905538482729
+611: Ship: type = LINER, displacement = 96 ,speed = 9847, range = 7869.297723084862, Ideal time of travel = 0.7991568724570796
+612: Train: number of wagons = 31, speed = 3193, range = 2546.864961749423, Ideal time of travel = 0.7976401383493339
+613: Ship: type = TUGBOAT, displacement = 962 ,speed = 8854, range = 7056.7242347947595, Ideal time of travel = 0.7970097396425073
+614: Plane: distance_fly = 815891373, carrying_capacity = 5962, speed = 9565, range = 7597.5449821146785, Ideal time of travel = 0.7943068460130349
+615: Plane: distance_fly = 561659288, carrying_capacity = 556, speed = 8062, range = 6385.496850327966, Ideal time of travel = 0.7920487286440048
+616: Train: number of wagons = 37, speed = 1041, range = 815.4374171952857, Ideal time of travel = 0.7833212461049814
+617: Plane: distance_fly = 550026766, carrying_capacity = 3300, speed = 4739, range = 3701.9556437415818, Ideal time of travel = 0.781168103764841
+618: Ship: type = TANKER, displacement = 338 ,speed = 7260, range = 5664.162721046617, Ideal time of travel = 0.7801877026235009
+619: Plane: distance_fly = 979874497, carrying_capacity = 3319, speed = 2914, range = 2269.4928323422973, Ideal time of travel = 0.7788238957935132
+620: Train: number of wagons = 26, speed = 6579, range = 5105.7445183518885, Ideal time of travel = 0.776066958253821
+621: Train: number of wagons = 15, speed = 9475, range = 7334.16472135291, Ideal time of travel = 0.7740543241533415
+622: Plane: distance_fly = 797803923, carrying_capacity = 2196, speed = 6200, range = 4778.92588248795, Ideal time of travel = 0.7707944971754758
+623: Plane: distance_fly = 333609055, carrying_capacity = 3569, speed = 9018, range = 6922.760019901507, Ideal time of travel = 0.7676602372922496
+624: Plane: distance_fly = 73995485, carrying_capacity = 6288, speed = 9391, range = 7189.065099777219, Ideal time of travel = 0.7655271110400617
+625: Plane: distance_fly = 517704929, carrying_capacity = 5877, speed = 4857, range = 3715.2110426110676, Ideal time of travel = 0.7649188887401828
+626: Plane: distance_fly = 271066271, carrying_capacity = 1785, speed = 5875, range = 4477.964208441299, Ideal time of travel = 0.7622066737772424
+627: Plane: distance_fly = 752265504, carrying_capacity = 3198, speed = 8282, range = 6306.574528981429, Ideal time of travel = 0.7614796581721116
+628: Ship: type = TUGBOAT, displacement = 523 ,speed = 4894, range = 3701.0630687461726, Ideal time of travel = 0.7562450079170765
+629: Plane: distance_fly = 770318057, carrying_capacity = 7465, speed = 8309, range = 6260.537413610533, Ideal time of travel = 0.7534646062836121
+630: Ship: type = TANKER, displacement = 359 ,speed = 7771, range = 5846.876879126725, Ideal time of travel = 0.7523969732501254
+631: Train: number of wagons = 38, speed = 4167, range = 3096.856512320655, Ideal time of travel = 0.7431861080683118
+632: Plane: distance_fly = 470515405, carrying_capacity = 7016, speed = 9443, range = 7004.311016536163, Ideal time of travel = 0.7417463747258459
+633: Train: number of wagons = 35, speed = 3663, range = 2684.9407783392144, Ideal time of travel = 0.732989565476171
+634: Train: number of wagons = 45, speed = 5167, range = 3766.8530932674707, Ideal time of travel = 0.729021306999704
+635: Ship: type = TUGBOAT, displacement = 338 ,speed = 6645, range = 4833.1850474853845, Ideal time of travel = 0.7273416173792904
+636: Plane: distance_fly = 639404368, carrying_capacity = 4672, speed = 9409, range = 6839.829564969278, Ideal time of travel = 0.7269454314984884
+637: Ship: type = TANKER, displacement = 866 ,speed = 3540, range = 2558.7224768870683, Ideal time of travel = 0.7228029595726182
+638: Plane: distance_fly = 693254363, carrying_capacity = 218, speed = 8202, range = 5927.009718171237, Ideal time of travel = 0.7226298120179514
+639: Ship: type = TUGBOAT, displacement = 384 ,speed = 6527, range = 4710.131737067625, Ideal time of travel = 0.72163807830054
+640: Ship: type = LINER, displacement = 363 ,speed = 6028, range = 4347.81178664313, Ideal time of travel = 0.7212693740283892
+641: Ship: type = TANKER, displacement = 711 ,speed = 9757, range = 7020.263045139448, Ideal time of travel = 0.7195104074141077
+642: Plane: distance_fly = 334783038, carrying_capacity = 3169, speed = 3898, range = 2793.748265196582, Ideal time of travel = 0.7167132542833715
+643: Plane: distance_fly = 89843819, carrying_capacity = 3068, speed = 9879, range = 7063.442362715503, Ideal time of travel = 0.7149956840485376
+644: Train: number of wagons = 45, speed = 7502, range = 5349.383194617531, Ideal time of travel = 0.7130609430308626
+645: Ship: type = TUGBOAT, displacement = 119 ,speed = 5384, range = 3829.310397286702, Ideal time of travel = 0.7112389296594914
+646: Ship: type = TANKER, displacement = 594 ,speed = 4602, range = 3257.3674449761097, Ideal time of travel = 0.707815611685378
+647: Plane: distance_fly = 358399628, carrying_capacity = 2976, speed = 5581, range = 3949.0410542270615, Ideal time of travel = 0.7075866429362232
+648: Ship: type = LINER, displacement = 610 ,speed = 9275, range = 6561.2092007227375, Ideal time of travel = 0.7074080000779231
+649: Train: number of wagons = 24, speed = 8536, range = 6033.1502441782895, Ideal time of travel = 0.7067889227012991
+650: Plane: distance_fly = 288871800, carrying_capacity = 4186, speed = 9589, range = 6771.848010710784, Ideal time of travel = 0.7062100334456966
+651: Ship: type = TUGBOAT, displacement = 349 ,speed = 6820, range = 4814.410040294574, Ideal time of travel = 0.7059252258496443
+652: Train: number of wagons = 22, speed = 944, range = 662.6303707518452, Ideal time of travel = 0.7019389520676327
+653: Train: number of wagons = 50, speed = 6009, range = 4214.9808973330755, Ideal time of travel = 0.7014446492483067
+654: Ship: type = TANKER, displacement = 478 ,speed = 8202, range = 5728.569306089259, Ideal time of travel = 0.6984356627760618
+655: Train: number of wagons = 19, speed = 4854, range = 3378.552293804042, Ideal time of travel = 0.6960346711586407
+656: Train: number of wagons = 33, speed = 3771, range = 2617.304328025268, Ideal time of travel = 0.6940610787656506
+657: Train: number of wagons = 28, speed = 4613, range = 3177.6588733169497, Ideal time of travel = 0.6888486610268696
+658: Train: number of wagons = 9, speed = 5895, range = 4050.52646365713, Ideal time of travel = 0.6871122075754249
+659: Train: number of wagons = 16, speed = 3048, range = 2089.0742205139486, Ideal time of travel = 0.6853918046305606
+660: Train: number of wagons = 33, speed = 4359, range = 2984.3674757949616, Ideal time of travel = 0.6846449818295393
+661: Plane: distance_fly = 833286629, carrying_capacity = 2957, speed = 1489, range = 1011.9309922514384, Ideal time of travel = 0.6796044273011675
+662: Plane: distance_fly = 132344657, carrying_capacity = 648, speed = 8621, range = 5854.230375645486, Ideal time of travel = 0.6790662771888976
+663: Ship: type = TUGBOAT, displacement = 396 ,speed = 3698, range = 2503.6537754478823, Ideal time of travel = 0.6770291442530779
+664: Train: number of wagons = 50, speed = 7452, range = 5042.495453039139, Ideal time of travel = 0.6766633726568893
+665: Ship: type = TANKER, displacement = 89 ,speed = 8448, range = 5692.808503156991, Ideal time of travel = 0.6738646428926363
+666: Train: number of wagons = 44, speed = 4374, range = 2933.650434603891, Ideal time of travel = 0.6707019740749637
+667: Ship: type = TUGBOAT, displacement = 924 ,speed = 9924, range = 6643.625634343665, Ideal time of travel = 0.6694503863707845
+668: Ship: type = TANKER, displacement = 508 ,speed = 9394, range = 6220.239795565332, Ideal time of travel = 0.6621502869454261
+669: Ship: type = TANKER, displacement = 635 ,speed = 9139, range = 6026.725278194211, Ideal time of travel = 0.6594512833126394
+670: Plane: distance_fly = 138756624, carrying_capacity = 2310, speed = 8821, range = 5810.7723905660705, Ideal time of travel = 0.6587430439367499
+671: Plane: distance_fly = 203857731, carrying_capacity = 4686, speed = 9507, range = 6260.965327450722, Ideal time of travel = 0.6585637243558138
+672: Plane: distance_fly = 839159472, carrying_capacity = 7577, speed = 4529, range = 2964.483347938596, Ideal time of travel = 0.6545558286461903
+673: Ship: type = TANKER, displacement = 463 ,speed = 6722, range = 4392.132431818306, Ideal time of travel = 0.6533966723918931
+674: Train: number of wagons = 31, speed = 2792, range = 1821.6021417949935, Ideal time of travel = 0.6524362972045106
+675: Train: number of wagons = 3, speed = 3191, range = 2065.689159544509, Ideal time of travel = 0.6473485300985613
+676: Train: number of wagons = 25, speed = 8368, range = 5392.833455184515, Ideal time of travel = 0.6444590649121074
+677: Train: number of wagons = 48, speed = 8912, range = 5649.400191380344, Ideal time of travel = 0.6339093572015646
+678: Plane: distance_fly = 886657795, carrying_capacity = 7839, speed = 8840, range = 5590.623206583067, Ideal time of travel = 0.6324234396587181
+679: Ship: type = TUGBOAT, displacement = 58 ,speed = 3924, range = 2479.151253951708, Ideal time of travel = 0.6317918588052263
+680: Plane: distance_fly = 636339028, carrying_capacity = 4611, speed = 4547, range = 2871.029082000658, Ideal time of travel = 0.6314117180560057
+681: Train: number of wagons = 49, speed = 9806, range = 6183.743066414451, Ideal time of travel = 0.6306081038562565
+682: Ship: type = LINER, displacement = 523 ,speed = 4100, range = 2581.6323055487373, Ideal time of travel = 0.629666415987497
+683: Ship: type = TANKER, displacement = 202 ,speed = 6298, range = 3954.4638899487722, Ideal time of travel = 0.6278920117416279
+684: Train: number of wagons = 32, speed = 6921, range = 4340.128915513107, Ideal time of travel = 0.6270956387101729
+685: Plane: distance_fly = 599090170, carrying_capacity = 9930, speed = 7596, range = 4756.608148703307, Ideal time of travel = 0.6261990717092295
+686: Plane: distance_fly = 687001987, carrying_capacity = 8812, speed = 8833, range = 5510.26262625678, Ideal time of travel = 0.6238268568161192
+687: Ship: type = TUGBOAT, displacement = 299 ,speed = 6320, range = 3923.8069881917086, Ideal time of travel = 0.620855536106283
+688: Ship: type = TUGBOAT, displacement = 421 ,speed = 8027, range = 4970.560899031444, Ideal time of travel = 0.6192302104187671
+689: Plane: distance_fly = 529487225, carrying_capacity = 7345, speed = 7861, range = 4814.129740354384, Ideal time of travel = 0.6124067854413413
+690: Train: number of wagons = 19, speed = 9347, range = 5675.577177382981, Ideal time of travel = 0.607208428092755
+691: Train: number of wagons = 31, speed = 9925, range = 5996.159650568525, Ideal time of travel = 0.6041470680673576
+692: Train: number of wagons = 11, speed = 8453, range = 5106.513808160219, Ideal time of travel = 0.6041066849828722
+693: Ship: type = LINER, displacement = 5 ,speed = 7179, range = 4298.6062244535005, Ideal time of travel = 0.5987750695714585
+694: Plane: distance_fly = 543373979, carrying_capacity = 7385, speed = 9785, range = 5817.535420462887, Ideal time of travel = 0.5945360674974846
+695: Train: number of wagons = 17, speed = 4632, range = 2753.153286936044, Ideal time of travel = 0.5943767890621856
+696: Plane: distance_fly = 452566830, carrying_capacity = 4289, speed = 7586, range = 4496.430202221292, Ideal time of travel = 0.5927274192224219
+697: Plane: distance_fly = 382337393, carrying_capacity = 134, speed = 5922, range = 3508.448433994736, Ideal time of travel = 0.5924431668346397
+698: Train: number of wagons = 28, speed = 4305, range = 2541.0242116697227, Ideal time of travel = 0.5902495265202607
+699: Ship: type = TANKER, displacement = 347 ,speed = 6361, range = 3663.542894331879, Ideal time of travel = 0.5759382006495644
+700: Train: number of wagons = 46, speed = 6429, range = 3701.145293922269, Ideal time of travel = 0.5756953326990619
+701: Plane: distance_fly = 625143058, carrying_capacity = 2674, speed = 3244, range = 1864.7487391568638, Ideal time of travel = 0.5748300675576029
+702: Plane: distance_fly = 825520260, carrying_capacity = 6955, speed = 6052, range = 3475.4278152219417, Ideal time of travel = 0.5742610401886883
+703: Ship: type = TANKER, displacement = 943 ,speed = 8216, range = 4713.417010542655, Ideal time of travel = 0.5736875621400505
+704: Plane: distance_fly = 968428321, carrying_capacity = 6154, speed = 4865, range = 2787.658449422754, Ideal time of travel = 0.5730027645267737
+705: Train: number of wagons = 41, speed = 7349, range = 4202.858882108582, Ideal time of travel = 0.5718953438710821
+706: Plane: distance_fly = 875238921, carrying_capacity = 7056, speed = 7701, range = 4392.927206144303, Ideal time of travel = 0.570435944181834
+707: Ship: type = LINER, displacement = 68 ,speed = 5802, range = 3297.4633839636986, Ideal time of travel = 0.5683321930306271
+708: Train: number of wagons = 10, speed = 9026, range = 5075.858473364825, Ideal time of travel = 0.5623596801866635
+709: Plane: distance_fly = 914593143, carrying_capacity = 8023, speed = 8577, range = 4786.551997749761, Ideal time of travel = 0.5580683219948421
+710: Train: number of wagons = 4, speed = 7813, range = 4312.460126276426, Ideal time of travel = 0.5519595707508546
+711: Train: number of wagons = 8, speed = 7232, range = 3983.350881410631, Ideal time of travel = 0.5507951993100982
+712: Plane: distance_fly = 517114664, carrying_capacity = 9679, speed = 2067, range = 1138.3371149458355, Ideal time of travel = 0.550719455706742
+713: Train: number of wagons = 24, speed = 4491, range = 2469.765507263088, Ideal time of travel = 0.5499366526971917
+714: Train: number of wagons = 23, speed = 7912, range = 4339.038806419078, Ideal time of travel = 0.5484123870600452
+715: Plane: distance_fly = 420040098, carrying_capacity = 9427, speed = 8221, range = 4500.40479390921, Ideal time of travel = 0.547427903407032
+716: Plane: distance_fly = 99182, carrying_capacity = 663, speed = 6884, range = 3766.1045527413453, Ideal time of travel = 0.5470808472895621
+717: Plane: distance_fly = 267078455, carrying_capacity = 6653, speed = 7388, range = 4021.2144442269177, Ideal time of travel = 0.5442899897437625
+718: Train: number of wagons = 9, speed = 8746, range = 4742.0057765075035, Ideal time of travel = 0.5421913762299913
+719: Train: number of wagons = 17, speed = 5849, range = 3168.658224948151, Ideal time of travel = 0.5417435843645326
+720: Train: number of wagons = 32, speed = 3510, range = 1891.390330604339, Ideal time of travel = 0.5388576440468202
+721: Plane: distance_fly = 90787003, carrying_capacity = 1172, speed = 7387, range = 3952.028254716245, Ideal time of travel = 0.5349977331414979
+722: Plane: distance_fly = 833933618, carrying_capacity = 3612, speed = 1694, range = 903.3324104471978, Ideal time of travel = 0.5332540793667048
+723: Train: number of wagons = 24, speed = 3620, range = 1924.8490583181933, Ideal time of travel = 0.5317262592039208
+724: Train: number of wagons = 20, speed = 8529, range = 4509.9317798462525, Ideal time of travel = 0.5287761495891959
+725: Ship: type = LINER, displacement = 101 ,speed = 1881, range = 985.3374894940023, Ideal time of travel = 0.5238370491727816
+726: Train: number of wagons = 41, speed = 4466, range = 2335.8545232039883, Ideal time of travel = 0.5230305694590212
+727: Plane: distance_fly = 370393477, carrying_capacity = 9130, speed = 7997, range = 4175.811986511837, Ideal time of travel = 0.5221723129313288
+728: Ship: type = LINER, displacement = 477 ,speed = 7134, range = 3722.7961048050693, Ideal time of travel = 0.5218385344554345
+729: Plane: distance_fly = 52986378, carrying_capacity = 7137, speed = 6962, range = 3607.2256441259533, Ideal time of travel = 0.5181306584495767
+730: Plane: distance_fly = 668884905, carrying_capacity = 8386, speed = 7092, range = 3668.407701320478, Ideal time of travel = 0.517259969165324
+731: Ship: type = LINER, displacement = 533 ,speed = 6229, range = 3209.291770228754, Ideal time of travel = 0.5152178150953209
+732: Train: number of wagons = 26, speed = 7937, range = 4077.826605102469, Ideal time of travel = 0.5137742982364204
+733: Plane: distance_fly = 144206172, carrying_capacity = 4156, speed = 5947, range = 3045.060591283974, Ideal time of travel = 0.512033057219434
+734: Ship: type = LINER, displacement = 299 ,speed = 4727, range = 2419.1587117766294, Ideal time of travel = 0.5117746375664542
+735: Train: number of wagons = 35, speed = 3415, range = 1745.919729537251, Ideal time of travel = 0.5112502868337485
+736: Ship: type = TANKER, displacement = 837 ,speed = 9536, range = 4853.770267167225, Ideal time of travel = 0.5089943652650194
+737: Ship: type = TANKER, displacement = 963 ,speed = 3891, range = 1977.0618257816448, Ideal time of travel = 0.5081114946753135
+738: Ship: type = LINER, displacement = 202 ,speed = 3363, range = 1707.4109567992846, Ideal time of travel = 0.5077047150756124
+739: Ship: type = TUGBOAT, displacement = 2 ,speed = 4305, range = 2174.5580820243595, Ideal time of travel = 0.5051238285770869
+740: Plane: distance_fly = 18210306, carrying_capacity = 2886, speed = 8458, range = 4255.270517561783, Ideal time of travel = 0.5031059964012512
+741: Train: number of wagons = 31, speed = 5820, range = 2927.5396368999295, Ideal time of travel = 0.503013683316139
+742: Plane: distance_fly = 968099272, carrying_capacity = 3021, speed = 9410, range = 4724.804666194093, Ideal time of travel = 0.502104640403198
+743: Train: number of wagons = 11, speed = 8097, range = 4027.70000572612, Ideal time of travel = 0.49743114804571076
+744: Plane: distance_fly = 548013328, carrying_capacity = 9042, speed = 2460, range = 1215.0032747607584, Ideal time of travel = 0.49390377022795057
+745: Plane: distance_fly = 324533078, carrying_capacity = 6123, speed = 5469, range = 2672.9328019960817, Ideal time of travel = 0.48874251270727403
+746: Plane: distance_fly = 520599743, carrying_capacity = 3333, speed = 7626, range = 3723.17220255632, Ideal time of travel = 0.4882208500598374
+747: Ship: type = TUGBOAT, displacement = 398 ,speed = 9793, range = 4760.298559669577, Ideal time of travel = 0.4860919595292124
+748: Ship: type = LINER, displacement = 320 ,speed = 3729, range = 1810.3564670862495, Ideal time of travel = 0.4854804148796593
+749: Train: number of wagons = 5, speed = 9464, range = 4588.939530079167, Ideal time of travel = 0.4848837204225662
+750: Ship: type = LINER, displacement = 904 ,speed = 9986, range = 4821.648760942171, Ideal time of travel = 0.4828408532888215
+751: Train: number of wagons = 28, speed = 3595, range = 1727.0868835635397, Ideal time of travel = 0.48041359765327946
+752: Train: number of wagons = 11, speed = 8560, range = 4104.829115487965, Ideal time of travel = 0.4795361116224259
+753: Train: number of wagons = 36, speed = 5557, range = 2662.749316273502, Ideal time of travel = 0.4791702926531405
+754: Plane: distance_fly = 249504848, carrying_capacity = 6323, speed = 9621, range = 4576.748631878447, Ideal time of travel = 0.475704046552172
+755: Train: number of wagons = 42, speed = 4531, range = 2151.675171652659, Ideal time of travel = 0.4748786518765525
+756: Ship: type = LINER, displacement = 476 ,speed = 7975, range = 3787.1479257918427, Ideal time of travel = 0.4748774828579113
+757: Train: number of wagons = 38, speed = 6491, range = 3080.9064484584424, Ideal time of travel = 0.4746428051854017
+758: Ship: type = TANKER, displacement = 853 ,speed = 9821, range = 4645.759263640705, Ideal time of travel = 0.47304340328283323
+759: Train: number of wagons = 1, speed = 9289, range = 4389.258306062313, Ideal time of travel = 0.47252215589001106
+760: Train: number of wagons = 15, speed = 4829, range = 2275.5825958349865, Ideal time of travel = 0.4712326767104963
+761: Train: number of wagons = 41, speed = 4402, range = 2046.3048513641286, Ideal time of travel = 0.46485798531670347
+762: Train: number of wagons = 5, speed = 2033, range = 939.9923246476054, Ideal time of travel = 0.46236710508982065
+763: Ship: type = TANKER, displacement = 469 ,speed = 3208, range = 1471.3908089614545, Ideal time of travel = 0.45866297037451825
+764: Ship: type = TANKER, displacement = 604 ,speed = 9590, range = 4387.094788121326, Ideal time of travel = 0.4574655670616607
+765: Ship: type = TUGBOAT, displacement = 274 ,speed = 6193, range = 2816.5390969636087, Ideal time of travel = 0.4547939765805924
+766: Ship: type = TUGBOAT, displacement = 294 ,speed = 9631, range = 4353.877924776111, Ideal time of travel = 0.452069143887043
+767: Plane: distance_fly = 368240818, carrying_capacity = 4160, speed = 6989, range = 3131.0754321690315, Ideal time of travel = 0.44800049108156126
+768: Plane: distance_fly = 939155542, carrying_capacity = 2256, speed = 8700, range = 3862.21845791999, Ideal time of travel = 0.4439331560827575
+769: Plane: distance_fly = 890026651, carrying_capacity = 9330, speed = 7098, range = 3148.425684417712, Ideal time of travel = 0.443565185181419
+770: Train: number of wagons = 41, speed = 3738, range = 1655.968189787497, Ideal time of travel = 0.44300914654561185
+771: Train: number of wagons = 24, speed = 9558, range = 4221.4668437976125, Ideal time of travel = 0.4416684289388588
+772: Ship: type = LINER, displacement = 848 ,speed = 2607, range = 1151.1692958780145, Ideal time of travel = 0.4415685829988548
+773: Train: number of wagons = 33, speed = 7377, range = 3253.8764325651127, Ideal time of travel = 0.4410839680852803
+774: Train: number of wagons = 35, speed = 5152, range = 2239.06151468642, Ideal time of travel = 0.43460044927919644
+775: Ship: type = LINER, displacement = 280 ,speed = 6536, range = 2837.8489116140354, Ideal time of travel = 0.4341874099776676
+776: Plane: distance_fly = 779852001, carrying_capacity = 9173, speed = 3330, range = 1444.8409577380826, Ideal time of travel = 0.4338861734949197
+777: Train: number of wagons = 30, speed = 7841, range = 3399.4397438618544, Ideal time of travel = 0.43354670882054
+778: Train: number of wagons = 50, speed = 6918, range = 2995.8241820034127, Ideal time of travel = 0.43304772795655
+779: Train: number of wagons = 39, speed = 9171, range = 3969.664968844201, Ideal time of travel = 0.432849740360288
+780: Plane: distance_fly = 735013781, carrying_capacity = 5054, speed = 4765, range = 2044.3203593959047, Ideal time of travel = 0.4290284070085844
+781: Plane: distance_fly = 980082728, carrying_capacity = 6233, speed = 5364, range = 2272.264284407542, Ideal time of travel = 0.4236137741251943
+782: Train: number of wagons = 34, speed = 8728, range = 3680.2687062882546, Ideal time of travel = 0.42166231740241233
+783: Plane: distance_fly = 609479436, carrying_capacity = 6203, speed = 5322, range = 2230.0368081237407, Ideal time of travel = 0.4190223239616198
+784: Ship: type = TANKER, displacement = 553 ,speed = 3145, range = 1310.95523723304, Ideal time of travel = 0.41683791326964703
+785: Ship: type = TUGBOAT, displacement = 664 ,speed = 9095, range = 3779.954718287518, Ideal time of travel = 0.4156079954136908
+786: Train: number of wagons = 24, speed = 9613, range = 3984.291580027006, Ideal time of travel = 0.414469112662749
+787: Plane: distance_fly = 773416927, carrying_capacity = 8281, speed = 7119, range = 2927.837430950663, Ideal time of travel = 0.41127088508929105
+788: Train: number of wagons = 1, speed = 7244, range = 2975.877701001534, Ideal time of travel = 0.41080586706260824
+789: Ship: type = TUGBOAT, displacement = 244 ,speed = 9386, range = 3829.3077713830403, Ideal time of travel = 0.4079807981443682
+790: Train: number of wagons = 29, speed = 5200, range = 2117.3339485551796, Ideal time of travel = 0.4071796054913807
+791: Train: number of wagons = 40, speed = 2896, range = 1176.9912506112298, Ideal time of travel = 0.4064196307359219
+792: Ship: type = TUGBOAT, displacement = 369 ,speed = 9918, range = 3990.452152160323, Ideal time of travel = 0.40234443962092387
+793: Plane: distance_fly = 672770745, carrying_capacity = 4497, speed = 8114, range = 3255.749075135375, Ideal time of travel = 0.40125081034451254
+794: Train: number of wagons = 23, speed = 7510, range = 2999.3041433220274, Ideal time of travel = 0.39937471948362546
+795: Ship: type = TANKER, displacement = 124 ,speed = 3368, range = 1338.3419364792753, Ideal time of travel = 0.3973699336339891
+796: Ship: type = LINER, displacement = 325 ,speed = 2289, range = 909.0521789956565, Ideal time of travel = 0.3971394403650749
+797: Train: number of wagons = 32, speed = 9309, range = 3659.445960020903, Ideal time of travel = 0.3931083854356969
+798: Ship: type = LINER, displacement = 914 ,speed = 7808, range = 3059.580966548703, Ideal time of travel = 0.39185207051084825
+799: Ship: type = TANKER, displacement = 700 ,speed = 8816, range = 3438.7950563906306, Ideal time of travel = 0.39006296011690456
+800: Ship: type = TANKER, displacement = 658 ,speed = 2018, range = 782.775121375056, Ideal time of travel = 0.38789649225721307
+801: Plane: distance_fly = 746172183, carrying_capacity = 3021, speed = 8090, range = 3137.9094805350182, Ideal time of travel = 0.38787509030099115
+802: Train: number of wagons = 42, speed = 1965, range = 745.3550925892292, Ideal time of travel = 0.37931556874769934
+803: Plane: distance_fly = 598812191, carrying_capacity = 5815, speed = 6023, range = 2275.201840821676, Ideal time of travel = 0.37775225648707883
+804: Train: number of wagons = 46, speed = 8867, range = 3348.4410342188253, Ideal time of travel = 0.37762952906494024
+805: Ship: type = LINER, displacement = 910 ,speed = 2072, range = 776.5250209388349, Ideal time of travel = 0.3747707630013682
+806: Plane: distance_fly = 761337645, carrying_capacity = 9308, speed = 8978, range = 3348.56955190024, Ideal time of travel = 0.3729750002116552
+807: Ship: type = TUGBOAT, displacement = 927 ,speed = 2886, range = 1068.3134080562363, Ideal time of travel = 0.3701709660624519
+808: Ship: type = TANKER, displacement = 52 ,speed = 9265, range = 3424.855535837781, Ideal time of travel = 0.369655211639264
+809: Plane: distance_fly = 898085129, carrying_capacity = 7934, speed = 9761, range = 3597.477681062992, Ideal time of travel = 0.36855626278690623
+810: Ship: type = TANKER, displacement = 830 ,speed = 8326, range = 3059.6414788203533, Ideal time of travel = 0.36748036017539676
+811: Plane: distance_fly = 2300424, carrying_capacity = 4422, speed = 6023, range = 2136.767635683478, Ideal time of travel = 0.3547679952986017
+812: Train: number of wagons = 35, speed = 4518, range = 1577.1195916662548, Ideal time of travel = 0.3490747214843415
+813: Plane: distance_fly = 768836075, carrying_capacity = 9550, speed = 4552, range = 1580.431913628364, Ideal time of travel = 0.3471950601116793
+814: Train: number of wagons = 22, speed = 4414, range = 1513.0386155949402, Ideal time of travel = 0.34278174345150436
+815: Train: number of wagons = 27, speed = 5539, range = 1868.3424304473308, Ideal time of travel = 0.3373068117796228
+816: Ship: type = TANKER, displacement = 814 ,speed = 6127, range = 2052.7690433419402, Ideal time of travel = 0.3350365665647038
+817: Plane: distance_fly = 540437164, carrying_capacity = 7808, speed = 6732, range = 2247.2439796494846, Ideal time of travel = 0.3338152079099056
+818: Train: number of wagons = 28, speed = 9414, range = 3138.333085076256, Ideal time of travel = 0.3333687152194876
+819: Ship: type = LINER, displacement = 915 ,speed = 4553, range = 1515.8050041930985, Ideal time of travel = 0.3329244463415547
+820: Plane: distance_fly = 839036433, carrying_capacity = 5427, speed = 5360, range = 1770.754568292305, Ideal time of travel = 0.33036465826348976
+821: Plane: distance_fly = 402673042, carrying_capacity = 5378, speed = 6132, range = 2012.7998431218173, Ideal time of travel = 0.3282452451274979
+822: Ship: type = TANKER, displacement = 365 ,speed = 9867, range = 3237.4809346147563, Ideal time of travel = 0.3281119828331566
+823: Plane: distance_fly = 698088140, carrying_capacity = 3191, speed = 1234, range = 403.9619662343644, Ideal time of travel = 0.32735977814778316
+824: Train: number of wagons = 43, speed = 1717, range = 558.7307250932531, Ideal time of travel = 0.3254110221859366
+825: Train: number of wagons = 46, speed = 3654, range = 1184.8809356304948, Ideal time of travel = 0.32426954998097834
+826: Train: number of wagons = 37, speed = 8332, range = 2675.3300072628504, Ideal time of travel = 0.32109097542761045
+827: Train: number of wagons = 37, speed = 6858, range = 2176.037436935499, Ideal time of travel = 0.31729913049511504
+828: Ship: type = LINER, displacement = 877 ,speed = 9101, range = 2878.501206127428, Ideal time of travel = 0.316284057370336
+829: Plane: distance_fly = 62150773, carrying_capacity = 8860, speed = 8215, range = 2576.9532677452507, Ideal time of travel = 0.31368877270179557
+830: Plane: distance_fly = 790377960, carrying_capacity = 2786, speed = 3013, range = 935.4728701151091, Ideal time of travel = 0.3104788815516459
+831: Ship: type = LINER, displacement = 460 ,speed = 6236, range = 1924.6881744381606, Ideal time of travel = 0.30864146479123805
+832: Ship: type = LINER, displacement = 655 ,speed = 8936, range = 2755.0954128214794, Ideal time of travel = 0.30831416884752455
+833: Ship: type = TANKER, displacement = 691 ,speed = 8909, range = 2744.7819449325266, Ideal time of travel = 0.30809091311398884
+834: Plane: distance_fly = 372740357, carrying_capacity = 2233, speed = 8921, range = 2736.47431135595, Ideal time of travel = 0.3067452428377928
+835: Ship: type = TANKER, displacement = 224 ,speed = 3645, range = 1117.1882088488007, Ideal time of travel = 0.3064988227294378
+836: Plane: distance_fly = 482677607, carrying_capacity = 1383, speed = 9529, range = 2917.867390832084, Ideal time of travel = 0.3062091920277137
+837: Train: number of wagons = 49, speed = 6488, range = 1986.3778802136073, Ideal time of travel = 0.3061618187752169
+838: Train: number of wagons = 23, speed = 7719, range = 2322.4418186018934, Ideal time of travel = 0.3008734057004655
+839: Ship: type = TUGBOAT, displacement = 606 ,speed = 2324, range = 697.0761574683993, Ideal time of travel = 0.29994671147521484
+840: Plane: distance_fly = 864924054, carrying_capacity = 2862, speed = 8166, range = 2431.959374358088, Ideal time of travel = 0.2978152552483576
+841: Train: number of wagons = 21, speed = 6003, range = 1782.89377007689, Ideal time of travel = 0.2970004614487573
+842: Plane: distance_fly = 125037229, carrying_capacity = 1048, speed = 4176, range = 1239.6581467620706, Ideal time of travel = 0.296853004492833
+843: Plane: distance_fly = 778814986, carrying_capacity = 7543, speed = 4194, range = 1235.9243393972251, Ideal time of travel = 0.2946886836903255
+844: Plane: distance_fly = 531959044, carrying_capacity = 3633, speed = 5411, range = 1589.287124040058, Ideal time of travel = 0.29371412382924744
+845: Plane: distance_fly = 541253909, carrying_capacity = 2282, speed = 4996, range = 1448.0396672269835, Ideal time of travel = 0.2898398052896284
+846: Ship: type = TANKER, displacement = 628 ,speed = 8349, range = 2379.917348732484, Ideal time of travel = 0.28505417998951776
+847: Ship: type = TANKER, displacement = 854 ,speed = 8761, range = 2450.128831933259, Ideal time of travel = 0.27966314712170515
+848: Train: number of wagons = 43, speed = 9729, range = 2688.0165158898244, Ideal time of travel = 0.2762890858145569
+849: Train: number of wagons = 31, speed = 9606, range = 2641.78259262086, Ideal time of travel = 0.2750138031043994
+850: Train: number of wagons = 29, speed = 4785, range = 1306.390890021541, Ideal time of travel = 0.27301794984776195
+851: Train: number of wagons = 24, speed = 5677, range = 1538.141363709662, Ideal time of travel = 0.2709426393710872
+852: Train: number of wagons = 21, speed = 4335, range = 1160.0670009939495, Ideal time of travel = 0.2676048445199422
+853: Ship: type = TUGBOAT, displacement = 771 ,speed = 7600, range = 2028.5428527200067, Ideal time of travel = 0.26691353325263245
+854: Ship: type = TANKER, displacement = 3 ,speed = 7126, range = 1869.4655244529847, Ideal time of travel = 0.26234430598554376
+855: Train: number of wagons = 30, speed = 2463, range = 642.9850044877323, Ideal time of travel = 0.26105765509043133
+856: Ship: type = TUGBOAT, displacement = 318 ,speed = 5427, range = 1411.4010493363419, Ideal time of travel = 0.2600702136237962
+857: Plane: distance_fly = 389766764, carrying_capacity = 3000, speed = 7013, range = 1814.3833878388066, Ideal time of travel = 0.2587171521230296
+858: Plane: distance_fly = 701725110, carrying_capacity = 7825, speed = 5813, range = 1494.3132695408885, Ideal time of travel = 0.25706404086373447
+859: Plane: distance_fly = 63744248, carrying_capacity = 5048, speed = 6757, range = 1703.58613010039, Ideal time of travel = 0.2521216708747062
+860: Plane: distance_fly = 633220908, carrying_capacity = 9163, speed = 7335, range = 1811.2152830415673, Ideal time of travel = 0.24692778228242226
+861: Ship: type = TUGBOAT, displacement = 381 ,speed = 4567, range = 1118.5813358899225, Ideal time of travel = 0.24492694019923855
+862: Train: number of wagons = 29, speed = 2792, range = 672.6101735872973, Ideal time of travel = 0.24090622263155345
+863: Plane: distance_fly = 654067726, carrying_capacity = 9267, speed = 3222, range = 769.5771297961633, Ideal time of travel = 0.23885075412668008
+864: Train: number of wagons = 48, speed = 9839, range = 2342.949652849551, Ideal time of travel = 0.23812883960255626
+865: Ship: type = TANKER, displacement = 875 ,speed = 6595, range = 1558.0511574358611, Ideal time of travel = 0.23624733243909948
+866: Train: number of wagons = 24, speed = 8008, range = 1882.484066394726, Ideal time of travel = 0.23507543286647425
+867: Train: number of wagons = 11, speed = 4323, range = 1002.5883532085334, Ideal time of travel = 0.2319195820514766
+868: Train: number of wagons = 15, speed = 7903, range = 1806.4979172693322, Ideal time of travel = 0.22858381845746326
+869: Train: number of wagons = 32, speed = 6141, range = 1389.3331755925074, Ideal time of travel = 0.2262389147683614
+870: Train: number of wagons = 19, speed = 9534, range = 2146.3542630234774, Ideal time of travel = 0.22512631246312959
+871: Ship: type = TUGBOAT, displacement = 103 ,speed = 5102, range = 1146.4113576885343, Ideal time of travel = 0.2246984236943423
+872: Plane: distance_fly = 807013822, carrying_capacity = 7209, speed = 2041, range = 451.71795971735884, Ideal time of travel = 0.22132188129218952
+873: Train: number of wagons = 49, speed = 5568, range = 1202.3884482891438, Ideal time of travel = 0.21594620120135485
+874: Plane: distance_fly = 54737499, carrying_capacity = 5094, speed = 6505, range = 1399.4690928619234, Ideal time of travel = 0.21513744701951168
+875: Plane: distance_fly = 624884137, carrying_capacity = 2196, speed = 7426, range = 1590.6976361253833, Ideal time of travel = 0.2142065225054381
+876: Ship: type = LINER, displacement = 642 ,speed = 7616, range = 1623.1823098844698, Ideal time of travel = 0.2131279293440743
+877: Train: number of wagons = 1, speed = 3918, range = 831.1638647994099, Ideal time of travel = 0.21213983277167175
+878: Train: number of wagons = 10, speed = 8324, range = 1729.7235112041592, Ideal time of travel = 0.20779955684816906
+879: Plane: distance_fly = 502619360, carrying_capacity = 3153, speed = 5984, range = 1241.3399537470002, Ideal time of travel = 0.20744317408873666
+880: Plane: distance_fly = 479695620, carrying_capacity = 9920, speed = 8321, range = 1702.5409522830125, Ideal time of travel = 0.2046077337198669
+881: Plane: distance_fly = 800051530, carrying_capacity = 8267, speed = 9649, range = 1947.3525123589993, Ideal time of travel = 0.20181910170577255
+882: Train: number of wagons = 40, speed = 3542, range = 714.7557323669598, Ideal time of travel = 0.20179439084329753
+883: Train: number of wagons = 39, speed = 4860, range = 979.1358522025778, Ideal time of travel = 0.20146828234620942
+884: Ship: type = TANKER, displacement = 429 ,speed = 4706, range = 942.6181512058505, Ideal time of travel = 0.2003013495975033
+885: Plane: distance_fly = 102421723, carrying_capacity = 5439, speed = 3617, range = 716.215890790939, Ideal time of travel = 0.1980137934174562
+886: Ship: type = TUGBOAT, displacement = 567 ,speed = 7779, range = 1535.8403544216815, Ideal time of travel = 0.19743416305716435
+887: Ship: type = TUGBOAT, displacement = 346 ,speed = 7997, range = 1575.390666125097, Ideal time of travel = 0.19699770740591432
+888: Ship: type = TANKER, displacement = 89 ,speed = 7902, range = 1553.9290900673413, Ideal time of travel = 0.196650099983212
+889: Plane: distance_fly = 918462029, carrying_capacity = 3871, speed = 9050, range = 1777.5437923989984, Ideal time of travel = 0.19641367871812138
+890: Ship: type = TANKER, displacement = 617 ,speed = 7502, range = 1465.281419551974, Ideal time of travel = 0.19531877093468064
+891: Ship: type = TANKER, displacement = 250 ,speed = 4524, range = 877.1224442108148, Ideal time of travel = 0.19388206105455677
+892: Plane: distance_fly = 987980640, carrying_capacity = 5829, speed = 9980, range = 1933.556975945233, Ideal time of travel = 0.1937431839624482
+893: Ship: type = LINER, displacement = 789 ,speed = 5254, range = 1016.7752509706155, Ideal time of travel = 0.19352402949573952
+894: Plane: distance_fly = 743219458, carrying_capacity = 6340, speed = 9806, range = 1848.4718180863395, Ideal time of travel = 0.1885041625623434
+895: Ship: type = TANKER, displacement = 892 ,speed = 5970, range = 1124.7082809169144, Ideal time of travel = 0.18839334688725534
+896: Plane: distance_fly = 48303661, carrying_capacity = 8218, speed = 6283, range = 1176.6274821564746, Ideal time of travel = 0.18727160308076946
+897: Ship: type = TUGBOAT, displacement = 675 ,speed = 2681, range = 496.1003155514976, Ideal time of travel = 0.18504301214155078
+898: Train: number of wagons = 6, speed = 8591, range = 1565.6693024533772, Ideal time of travel = 0.18224529186979133
+899: Train: number of wagons = 21, speed = 5513, range = 1001.4424691053567, Ideal time of travel = 0.18165109180216882
+900: Ship: type = LINER, displacement = 192 ,speed = 4685, range = 845.8265784480926, Ideal time of travel = 0.1805392910241393
+901: Ship: type = TANKER, displacement = 426 ,speed = 7233, range = 1297.3828605850576, Ideal time of travel = 0.1793699516915606
+902: Plane: distance_fly = 565708987, carrying_capacity = 3589, speed = 4407, range = 788.0239783734082, Ideal time of travel = 0.17881188526739464
+903: Plane: distance_fly = 992594783, carrying_capacity = 8721, speed = 5759, range = 1020.5440413315577, Ideal time of travel = 0.17720855032671604
+904: Plane: distance_fly = 372436700, carrying_capacity = 4958, speed = 8063, range = 1423.8697023718807, Ideal time of travel = 0.1765930425861194
+905: Train: number of wagons = 30, speed = 7510, range = 1294.3368568049066, Ideal time of travel = 0.1723484496411327
+906: Ship: type = LINER, displacement = 64 ,speed = 8404, range = 1418.1283094495288, Ideal time of travel = 0.16874444424673118
+907: Plane: distance_fly = 522921189, carrying_capacity = 5387, speed = 8416, range = 1396.628862265897, Ideal time of travel = 0.1659492469422406
+908: Plane: distance_fly = 905690146, carrying_capacity = 2852, speed = 8263, range = 1347.536841003386, Ideal time of travel = 0.16308082306709257
+909: Train: number of wagons = 7, speed = 9645, range = 1567.4061735483924, Ideal time of travel = 0.162509712135655
+910: Plane: distance_fly = 837112235, carrying_capacity = 8914, speed = 2162, range = 349.51468976763414, Ideal time of travel = 0.16166266871768462
+911: Plane: distance_fly = 837597918, carrying_capacity = 140, speed = 9180, range = 1468.7045983045475, Ideal time of travel = 0.15998960765844744
+912: Plane: distance_fly = 259152099, carrying_capacity = 7250, speed = 3156, range = 495.31216300574175, Ideal time of travel = 0.15694301742894226
+913: Train: number of wagons = 45, speed = 8941, range = 1378.6285131164552, Ideal time of travel = 0.1541917585411537
+914: Plane: distance_fly = 27168171, carrying_capacity = 9408, speed = 8780, range = 1269.434031880444, Ideal time of travel = 0.14458246376770434
+915: Ship: type = TUGBOAT, displacement = 699 ,speed = 4240, range = 612.6906157996077, Ideal time of travel = 0.14450250372632256
+916: Plane: distance_fly = 471835030, carrying_capacity = 8755, speed = 7308, range = 1018.127885328112, Ideal time of travel = 0.13931689728080351
+917: Plane: distance_fly = 626890536, carrying_capacity = 4076, speed = 6389, range = 885.1649617351683, Ideal time of travel = 0.13854514974724813
+918: Train: number of wagons = 14, speed = 2672, range = 365.79640518126666, Ideal time of travel = 0.13689985223849802
+919: Ship: type = TANKER, displacement = 609 ,speed = 8070, range = 1073.4667062019507, Ideal time of travel = 0.133019418364554
+920: Train: number of wagons = 36, speed = 5988, range = 791.7936177777906, Ideal time of travel = 0.1322300630891434
+921: Ship: type = TUGBOAT, displacement = 387 ,speed = 7400, range = 977.0444482813472, Ideal time of travel = 0.1320330335515334
+922: Plane: distance_fly = 869386027, carrying_capacity = 6908, speed = 9272, range = 1222.9223247460452, Ideal time of travel = 0.13189412475690737
+923: Plane: distance_fly = 972215874, carrying_capacity = 5109, speed = 8357, range = 1099.834445190572, Ideal time of travel = 0.13160637132829628
+924: Plane: distance_fly = 900000401, carrying_capacity = 1018, speed = 8954, range = 1068.810522091615, Ideal time of travel = 0.11936682176587167
+925: Plane: distance_fly = 997894994, carrying_capacity = 8351, speed = 8457, range = 966.891011697163, Ideal time of travel = 0.11433026034021083
+926: Plane: distance_fly = 24228664, carrying_capacity = 2107, speed = 8027, range = 915.9364022576219, Ideal time of travel = 0.11410693936185648
+927: Ship: type = TANKER, displacement = 228 ,speed = 5162, range = 588.8219709689826, Ideal time of travel = 0.11406857244652897
+928: Train: number of wagons = 24, speed = 8817, range = 975.7215321376915, Ideal time of travel = 0.1106636647541898
+929: Train: number of wagons = 11, speed = 9071, range = 996.7240029659396, Ideal time of travel = 0.10988027813536981
+930: Plane: distance_fly = 847264189, carrying_capacity = 5066, speed = 8244, range = 889.1393209705084, Ideal time of travel = 0.10785290162184721
+931: Train: number of wagons = 12, speed = 6340, range = 679.2062239108624, Ideal time of travel = 0.10713031922884264
+932: Plane: distance_fly = 985794208, carrying_capacity = 2024, speed = 5585, range = 597.4332024440763, Ideal time of travel = 0.10697102998103425
+933: Plane: distance_fly = 688149076, carrying_capacity = 1205, speed = 6264, range = 669.4520651919526, Ideal time of travel = 0.10687293505618656
+934: Ship: type = TANKER, displacement = 729 ,speed = 8509, range = 903.6963886370995, Ideal time of travel = 0.10620477008310018
+935: Plane: distance_fly = 393712447, carrying_capacity = 5053, speed = 4470, range = 469.50981113392356, Ideal time of travel = 0.10503575193152652
+936: Train: number of wagons = 48, speed = 4823, range = 505.9162541784442, Ideal time of travel = 0.10489659012615472
+937: Plane: distance_fly = 798190126, carrying_capacity = 5470, speed = 7036, range = 734.9317371452117, Ideal time of travel = 0.10445306099278166
+938: Train: number of wagons = 28, speed = 6822, range = 697.3285790829879, Ideal time of travel = 0.1022176164003207
+939: Ship: type = TUGBOAT, displacement = 563 ,speed = 8690, range = 878.1618219561063, Ideal time of travel = 0.10105429481658301
+940: Plane: distance_fly = 336070120, carrying_capacity = 6947, speed = 3799, range = 375.734085961511, Ideal time of travel = 0.09890341825783391
+941: Train: number of wagons = 35, speed = 6009, range = 583.5724674040348, Ideal time of travel = 0.09711640329572888
+942: Plane: distance_fly = 260287449, carrying_capacity = 874, speed = 5820, range = 563.4549346170937, Ideal time of travel = 0.09681356264898518
+943: Ship: type = TANKER, displacement = 493 ,speed = 9784, range = 942.9078038275295, Ideal time of travel = 0.09637242475751528
+944: Ship: type = TANKER, displacement = 144 ,speed = 9708, range = 927.3209760928638, Ideal time of travel = 0.09552132015789698
+945: Plane: distance_fly = 844327113, carrying_capacity = 5393, speed = 5721, range = 538.649987830844, Ideal time of travel = 0.09415311795679847
+946: Train: number of wagons = 16, speed = 8808, range = 829.2054903099572, Ideal time of travel = 0.09414231270549014
+947: Plane: distance_fly = 881058273, carrying_capacity = 4902, speed = 7329, range = 684.1655398504306, Ideal time of travel = 0.09335046252564205
+948: Train: number of wagons = 4, speed = 3926, range = 362.98467728414863, Ideal time of travel = 0.09245661673055237
+949: Train: number of wagons = 12, speed = 8977, range = 818.2851927896326, Ideal time of travel = 0.09115352487352485
+950: Ship: type = LINER, displacement = 990 ,speed = 6890, range = 595.1625831004903, Ideal time of travel = 0.08638063615391732
+951: Train: number of wagons = 44, speed = 8626, range = 731.6087913786752, Ideal time of travel = 0.08481437414545272
+952: Ship: type = LINER, displacement = 876 ,speed = 5677, range = 464.86371563527655, Ideal time of travel = 0.08188545281579647
+953: Plane: distance_fly = 680650841, carrying_capacity = 7369, speed = 3079, range = 243.67743759487777, Ideal time of travel = 0.07914174653942117
+954: Ship: type = LINER, displacement = 920 ,speed = 6950, range = 514.8371511474577, Ideal time of travel = 0.074077287934886
+955: Plane: distance_fly = 475120252, carrying_capacity = 215, speed = 3952, range = 290.7005507311789, Ideal time of travel = 0.0735578316627477
+956: Plane: distance_fly = 856752578, carrying_capacity = 1318, speed = 7232, range = 523.5789312068925, Ideal time of travel = 0.07239752920449288
+957: Plane: distance_fly = 862934858, carrying_capacity = 4414, speed = 9554, range = 637.421287658512, Ideal time of travel = 0.0667177399684438
+958: Ship: type = TANKER, displacement = 740 ,speed = 9021, range = 578.4078693936892, Ideal time of travel = 0.06411793253449609
+959: Plane: distance_fly = 861782495, carrying_capacity = 506, speed = 5831, range = 358.35835196584713, Ideal time of travel = 0.0614574433143281
+960: Train: number of wagons = 44, speed = 6281, range = 374.50016734509967, Ideal time of travel = 0.059624290295351004
+961: Train: number of wagons = 37, speed = 3764, range = 219.12639016044852, Ideal time of travel = 0.05821636295442309
+962: Ship: type = TUGBOAT, displacement = 201 ,speed = 4541, range = 262.21389445540296, Ideal time of travel = 0.057743645552830423
+963: Train: number of wagons = 5, speed = 4367, range = 249.2645988120786, Ideal time of travel = 0.057079138725000825
+964: Plane: distance_fly = 428728496, carrying_capacity = 4795, speed = 9153, range = 518.5576140724697, Ideal time of travel = 0.05665438807740301
+965: Train: number of wagons = 32, speed = 8106, range = 457.95729232884, Ideal time of travel = 0.05649608837019986
+966: Train: number of wagons = 16, speed = 9519, range = 498.8243126679734, Ideal time of travel = 0.05240301635339567
+967: Train: number of wagons = 38, speed = 6951, range = 349.70282945982586, Ideal time of travel = 0.05030971507118772
+968: Train: number of wagons = 47, speed = 6885, range = 342.6004814070447, Ideal time of travel = 0.04976041850501738
+969: Ship: type = TUGBOAT, displacement = 64 ,speed = 1262, range = 62.31717794496768, Ideal time of travel = 0.04937969726225648
+970: Ship: type = LINER, displacement = 919 ,speed = 9504, range = 428.36710740838356, Ideal time of travel = 0.04507229665492251
+971: Ship: type = TUGBOAT, displacement = 610 ,speed = 6208, range = 277.7355400200616, Ideal time of travel = 0.0447383279671491
+972: Train: number of wagons = 12, speed = 6346, range = 279.07738638605093, Ideal time of travel = 0.04397689668863078
+973: Ship: type = LINER, displacement = 496 ,speed = 1509, range = 66.22477664565565, Ideal time of travel = 0.04388653190566975
+974: Ship: type = TUGBOAT, displacement = 265 ,speed = 6230, range = 273.09210557798303, Ideal time of travel = 0.043835008921024564
+975: Plane: distance_fly = 87230796, carrying_capacity = 1508, speed = 8763, range = 382.058401141447, Ideal time of travel = 0.04359904155442736
+976: Plane: distance_fly = 215385073, carrying_capacity = 4014, speed = 5760, range = 242.1627806517546, Ideal time of travel = 0.042042149418707396
+977: Train: number of wagons = 50, speed = 3212, range = 134.095541658598, Ideal time of travel = 0.04174830064090847
+978: Train: number of wagons = 7, speed = 2832, range = 103.84753659868214, Ideal time of travel = 0.03666932789501488
+979: Ship: type = LINER, displacement = 333 ,speed = 4582, range = 166.23684669826687, Ideal time of travel = 0.03628041176304384
+980: Ship: type = TANKER, displacement = 744 ,speed = 6991, range = 245.34631417039594, Ideal time of travel = 0.03509459507515319
+981: Train: number of wagons = 18, speed = 8249, range = 257.60481622619153, Ideal time of travel = 0.031228611495477215
+982: Plane: distance_fly = 204619788, carrying_capacity = 5938, speed = 6437, range = 199.36210279283023, Ideal time of travel = 0.030971275872740442
+983: Plane: distance_fly = 141476139, carrying_capacity = 4359, speed = 9320, range = 286.5770519953197, Ideal time of travel = 0.03074861072911156
+984: Plane: distance_fly = 283486779, carrying_capacity = 4774, speed = 8893, range = 260.8044071496074, Ideal time of travel = 0.0293269320982354
+985: Train: number of wagons = 21, speed = 8173, range = 216.54829950290178, Ideal time of travel = 0.026495570721020652
+986: Ship: type = TANKER, displacement = 846 ,speed = 6269, range = 164.112193944673, Ideal time of travel = 0.026178368790026003
+987: Plane: distance_fly = 713708246, carrying_capacity = 3281, speed = 8933, range = 221.94652753397608, Ideal time of travel = 0.02484568762274444
+988: Plane: distance_fly = 3124072, carrying_capacity = 8480, speed = 8933, range = 220.08712585438232, Ideal time of travel = 0.024637537876903877
+989: Ship: type = TANKER, displacement = 58 ,speed = 4537, range = 107.10335356828173, Ideal time of travel = 0.02360664614685513
+990: Plane: distance_fly = 389566938, carrying_capacity = 51, speed = 2347, range = 54.98720302691353, Ideal time of travel = 0.023428718801411813
+991: Ship: type = TUGBOAT, displacement = 710 ,speed = 7973, range = 114.30053037089311, Ideal time of travel = 0.014335950128043787
+992: Ship: type = TANKER, displacement = 777 ,speed = 9013, range = 125.29498318203895, Ideal time of travel = 0.013901584731170414
+993: Train: number of wagons = 19, speed = 8512, range = 88.31650148237188, Ideal time of travel = 0.010375528839564364
+994: Train: number of wagons = 44, speed = 5132, range = 46.86788190769618, Ideal time of travel = 0.009132478937586942
+995: Ship: type = TANKER, displacement = 494 ,speed = 6165, range = 46.95042869195161, Ideal time of travel = 0.007615641312563115
+996: Ship: type = TUGBOAT, displacement = 400 ,speed = 3736, range = 24.251787768024577, Ideal time of travel = 0.006491377882233559
+997: Ship: type = LINER, displacement = 208 ,speed = 9897, range = 23.00951651092832, Ideal time of travel = 0.0023248981015386804
+998: Plane: distance_fly = 920223354, carrying_capacity = 5506, speed = 9861, range = 20.905183548147477, Ideal time of travel = 0.0021199861624731243
+999: Train: number of wagons = 22, speed = 9590, range = 11.947269887340962, Ideal time of travel = 0.0012458049934662109

@@ -1,0 +1,11 @@
+Container stores 10 transports:
+0: Plane: distance_fly = 272675096, carrying_capacity = 9086, speed = 691, range = 2330.893104586549, Ideal time of travel = 3.373217228055787
+1: Ship: type = TANKER, displacement = 565 ,speed = 4933, range = 1472.719134930919, Ideal time of travel = 0.2985443208860569
+2: Train: number of wagons = 30, speed = 1828, range = 171.71589248177042, Ideal time of travel = 0.093936483852172
+3: Ship: type = TANKER, displacement = 122 ,speed = 8461, range = 5963.907383840219, Ideal time of travel = 0.7048702734712468
+4: Ship: type = TANKER, displacement = 732 ,speed = 667, range = 5775.890969454594, Ideal time of travel = 8.659506700831475
+5: Plane: distance_fly = 336515147, carrying_capacity = 2894, speed = 2277, range = 8911.470935486554, Ideal time of travel = 3.913689475400331
+6: Ship: type = LINER, displacement = 315 ,speed = 6068, range = 9929.525913335856, Ideal time of travel = 1.6363753977152036
+7: Plane: distance_fly = 993912744, carrying_capacity = 1313, speed = 2996, range = 8352.363925300398, Ideal time of travel = 2.7878384263352465
+8: Plane: distance_fly = 839387893, carrying_capacity = 2672, speed = 3026, range = 826.6686217249116, Ideal time of travel = 0.27318857294279963
+9: Ship: type = LINER, displacement = 798 ,speed = 4214, range = 5924.390298886325, Ideal time of travel = 1.4058828426403238

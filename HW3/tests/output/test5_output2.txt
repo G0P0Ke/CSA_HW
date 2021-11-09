@@ -1,0 +1,5 @@
+Container stores 4 transports:
+0: Ship: type = LINER, displacement = 40 ,speed = 100, range = 4000, Ideal time of travel = 40.0
+1: Ship: type = UNKNOWN_TYPE, displacement = 30 ,speed = 100, range = 3000, Ideal time of travel = 30.0
+2: Ship: type = TUGBOAT, displacement = 10 ,speed = 100, range = 500, Ideal time of travel = 5.0
+3: Ship: type = TANKER, displacement = 20 ,speed = 100, range = 200, Ideal time of travel = 2.0
