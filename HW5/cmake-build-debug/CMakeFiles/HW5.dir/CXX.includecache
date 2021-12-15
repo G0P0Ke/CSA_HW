@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antonandreev/CLionProjects/HW5/Bee.h
+iostream
+-
+
+/Users/antonandreev/CLionProjects/HW5/main.cpp
+iostream
+-
+pthread.h
+-
+string
+-
+unistd.h
+-
+vector
+-
+Bee.h
+/Users/antonandreev/CLionProjects/HW5/Bee.h
+
